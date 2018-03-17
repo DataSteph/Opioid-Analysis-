@@ -1,0 +1,723 @@
+"Notes"	"Year"	"Year Code"	"State"	"State Code"	"Race"	"Race Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Gender"	"Gender Code"	Deaths	Population	Crude Rate
+	"2016"	"2016"	"Alabama"	"01"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	11	90281	Unreliable
+	"2016"	"2016"	"Alabama"	"01"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	13	73771	Unreliable
+	"2016"	"2016"	"Alabama"	"01"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	17	72068	Unreliable
+	"2016"	"2016"	"Alabama"	"01"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	19	212894	Unreliable
+	"2016"	"2016"	"Alabama"	"01"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	42	214594	19.6
+	"2016"	"2016"	"Alabama"	"01"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	29	204588	14.2
+	"2016"	"2016"	"Alabama"	"01"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	58	205339	28.2
+	"2016"	"2016"	"Alabama"	"01"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	25	232779	10.7
+	"2016"	"2016"	"Alabama"	"01"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	35	231901	15.1
+	"2016"	"2016"	"Alabama"	"01"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	18	242067	Unreliable
+	"2016"	"2016"	"Alabama"	"01"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	32	229451	13.9
+	"2016"	"2016"	"Alaska"	"02"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	12	32277	Unreliable
+	"2016"	"2016"	"Arizona"	"04"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	17	22066	Unreliable
+	"2016"	"2016"	"Arizona"	"04"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	10	16992	Unreliable
+	"2016"	"2016"	"Arizona"	"04"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	15	375126	Unreliable
+	"2016"	"2016"	"Arizona"	"04"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	50	398868	12.5
+	"2016"	"2016"	"Arizona"	"04"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	46	367341	12.5
+	"2016"	"2016"	"Arizona"	"04"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	114	391653	29.1
+	"2016"	"2016"	"Arizona"	"04"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	59	346297	17.0
+	"2016"	"2016"	"Arizona"	"04"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	101	353502	28.6
+	"2016"	"2016"	"Arizona"	"04"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	69	363952	19.0
+	"2016"	"2016"	"Arizona"	"04"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	115	360419	31.9
+	"2016"	"2016"	"Arizona"	"04"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	71	385191	18.4
+	"2016"	"2016"	"Arizona"	"04"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	105	350695	29.9
+	"2016"	"2016"	"Arizona"	"04"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	29	330639	8.8
+	"2016"	"2016"	"Arizona"	"04"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	23	296636	7.8
+	"2016"	"2016"	"Arkansas"	"05"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	15	157440	Unreliable
+	"2016"	"2016"	"Arkansas"	"05"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	21	151914	13.8
+	"2016"	"2016"	"Arkansas"	"05"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	37	154464	24.0
+	"2016"	"2016"	"Arkansas"	"05"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	36	144831	24.9
+	"2016"	"2016"	"Arkansas"	"05"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	26	146941	17.7
+	"2016"	"2016"	"Arkansas"	"05"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	31	155904	19.9
+	"2016"	"2016"	"Arkansas"	"05"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	32	156303	20.5
+	"2016"	"2016"	"Arkansas"	"05"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	24	161792	14.8
+	"2016"	"2016"	"Arkansas"	"05"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	29	152908	19.0
+	"2016"	"2016"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"25-34 years"	"25-34"	"Male"	"M"	12	511497	Unreliable
+	"2016"	"2016"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"45-54 years"	"45-54"	"Male"	"M"	13	407947	Unreliable
+	"2016"	"2016"	"California"	"06"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	18	230759	Unreliable
+	"2016"	"2016"	"California"	"06"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	11	175711	Unreliable
+	"2016"	"2016"	"California"	"06"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	24	186397	12.9
+	"2016"	"2016"	"California"	"06"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	42	181192	23.2
+	"2016"	"2016"	"California"	"06"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	31	167579	18.5
+	"2016"	"2016"	"California"	"06"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	61	154537	39.5
+	"2016"	"2016"	"California"	"06"	"Black or African American"	"2054-5"	"65-74 years"	"65-74"	"Male"	"M"	18	80716	Unreliable
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	35	1956248	1.8
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	102	2078030	4.9
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	55	2064525	2.7
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	226	2230099	10.1
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	94	1829610	5.1
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	223	1916930	11.6
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	183	1900926	9.6
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	318	1948686	16.3
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	249	1791060	13.9
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	418	1737655	24.1
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	82	1253249	6.5
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	129	1117893	11.5
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	"75-84 years"	"75-84"	"Female"	"F"	16	660088	Unreliable
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	"75-84 years"	"75-84"	"Male"	"M"	24	518248	4.6
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	"85+ years"	"85+"	"Female"	"F"	10	362182	Unreliable
+	"2016"	"2016"	"California"	"06"	"White"	"2106-3"	"85+ years"	"85+"	"Male"	"M"	10	209389	Unreliable
+	"2016"	"2016"	"Colorado"	"08"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	10	309385	Unreliable
+	"2016"	"2016"	"Colorado"	"08"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	33	336648	9.8
+	"2016"	"2016"	"Colorado"	"08"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	49	355413	13.8
+	"2016"	"2016"	"Colorado"	"08"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	94	383539	24.5
+	"2016"	"2016"	"Colorado"	"08"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	37	318047	11.6
+	"2016"	"2016"	"Colorado"	"08"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	78	336794	23.2
+	"2016"	"2016"	"Colorado"	"08"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	51	320280	15.9
+	"2016"	"2016"	"Colorado"	"08"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	59	324067	18.2
+	"2016"	"2016"	"Colorado"	"08"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	44	328709	13.4
+	"2016"	"2016"	"Colorado"	"08"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	60	314138	19.1
+	"2016"	"2016"	"Colorado"	"08"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	13	222159	Unreliable
+	"2016"	"2016"	"Colorado"	"08"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	16	205873	Unreliable
+	"2016"	"2016"	"Connecticut"	"09"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	12	26866	Unreliable
+	"2016"	"2016"	"Connecticut"	"09"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	29	27430	105.7
+	"2016"	"2016"	"Connecticut"	"09"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	19	21166	Unreliable
+	"2016"	"2016"	"Connecticut"	"09"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	17	188584	Unreliable
+	"2016"	"2016"	"Connecticut"	"09"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	44	200813	21.9
+	"2016"	"2016"	"Connecticut"	"09"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	57	165178	34.5
+	"2016"	"2016"	"Connecticut"	"09"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	147	172049	85.4
+	"2016"	"2016"	"Connecticut"	"09"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	41	166826	24.6
+	"2016"	"2016"	"Connecticut"	"09"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	153	163351	93.7
+	"2016"	"2016"	"Connecticut"	"09"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	65	223334	29.1
+	"2016"	"2016"	"Connecticut"	"09"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	143	213487	67.0
+	"2016"	"2016"	"Connecticut"	"09"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	40	226072	17.7
+	"2016"	"2016"	"Connecticut"	"09"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	108	214530	50.3
+	"2016"	"2016"	"Connecticut"	"09"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	17	135184	Unreliable
+	"2016"	"2016"	"Delaware"	"10"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	13	39617	Unreliable
+	"2016"	"2016"	"Delaware"	"10"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	18	43008	Unreliable
+	"2016"	"2016"	"Delaware"	"10"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	47	44184	106.4
+	"2016"	"2016"	"Delaware"	"10"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	12	37624	Unreliable
+	"2016"	"2016"	"Delaware"	"10"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	27	37116	72.7
+	"2016"	"2016"	"Delaware"	"10"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	15	46473	Unreliable
+	"2016"	"2016"	"Delaware"	"10"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	41	44602	91.9
+	"2016"	"2016"	"Delaware"	"10"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	15	52904	Unreliable
+	"2016"	"2016"	"Delaware"	"10"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	17	47730	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	17	18021	Unreliable
+	"2016"	"2016"	"District of Columbia"	"11"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	22	22673	97.0
+	"2016"	"2016"	"District of Columbia"	"11"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	53	19104	277.4
+	"2016"	"2016"	"District of Columbia"	"11"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	24	24059	99.8
+	"2016"	"2016"	"District of Columbia"	"11"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	68	19496	348.8
+	"2016"	"2016"	"District of Columbia"	"11"	"Black or African American"	"2054-5"	"65-74 years"	"65-74"	"Male"	"M"	22	10669	206.2
+	"2016"	"2016"	"District of Columbia"	"11"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	10	44456	Unreliable
+	"2016"	"2016"	"Florida"	"12"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Female"	"F"	20	284205	7.0
+	"2016"	"2016"	"Florida"	"12"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	50	273667	18.3
+	"2016"	"2016"	"Florida"	"12"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	22	243612	9.0
+	"2016"	"2016"	"Florida"	"12"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	39	218700	17.8
+	"2016"	"2016"	"Florida"	"12"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	31	233438	13.3
+	"2016"	"2016"	"Florida"	"12"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	49	208665	23.5
+	"2016"	"2016"	"Florida"	"12"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	19	206312	Unreliable
+	"2016"	"2016"	"Florida"	"12"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	44	175514	25.1
+	"2016"	"2016"	"Florida"	"12"	"Black or African American"	"2054-5"	"65-74 years"	"65-74"	"Male"	"M"	22	99930	22.0
+	"2016"	"2016"	"Florida"	"12"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	86	870106	9.9
+	"2016"	"2016"	"Florida"	"12"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	189	921004	20.5
+	"2016"	"2016"	"Florida"	"12"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	257	977600	26.3
+	"2016"	"2016"	"Florida"	"12"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	666	1021746	65.2
+	"2016"	"2016"	"Florida"	"12"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	279	935313	29.8
+	"2016"	"2016"	"Florida"	"12"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	604	945903	63.9
+	"2016"	"2016"	"Florida"	"12"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	294	1111148	26.5
+	"2016"	"2016"	"Florida"	"12"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	459	1092779	42.0
+	"2016"	"2016"	"Florida"	"12"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	234	1182604	19.8
+	"2016"	"2016"	"Florida"	"12"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	377	1074237	35.1
+	"2016"	"2016"	"Florida"	"12"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	67	1059969	6.3
+	"2016"	"2016"	"Florida"	"12"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	71	932072	7.6
+	"2016"	"2016"	"Florida"	"12"	"White"	"2106-3"	"75-84 years"	"75-84"	"Female"	"F"	19	615007	Unreliable
+	"2016"	"2016"	"Florida"	"12"	"White"	"2106-3"	"75-84 years"	"75-84"	"Male"	"M"	16	515034	Unreliable
+	"2016"	"2016"	"Georgia"	"13"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Female"	"F"	13	265265	Unreliable
+	"2016"	"2016"	"Georgia"	"13"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	18	236338	Unreliable
+	"2016"	"2016"	"Georgia"	"13"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	14	251988	Unreliable
+	"2016"	"2016"	"Georgia"	"13"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	15	205098	Unreliable
+	"2016"	"2016"	"Georgia"	"13"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	15	243911	Unreliable
+	"2016"	"2016"	"Georgia"	"13"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	26	202993	12.8
+	"2016"	"2016"	"Georgia"	"13"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	14	201922	Unreliable
+	"2016"	"2016"	"Georgia"	"13"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	27	162416	16.6
+	"2016"	"2016"	"Georgia"	"13"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	52	429526	12.1
+	"2016"	"2016"	"Georgia"	"13"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	57	410855	13.9
+	"2016"	"2016"	"Georgia"	"13"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	128	424081	30.2
+	"2016"	"2016"	"Georgia"	"13"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	73	406596	18.0
+	"2016"	"2016"	"Georgia"	"13"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	102	412457	24.7
+	"2016"	"2016"	"Georgia"	"13"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	90	446970	20.1
+	"2016"	"2016"	"Georgia"	"13"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	110	452648	24.3
+	"2016"	"2016"	"Georgia"	"13"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	59	422362	14.0
+	"2016"	"2016"	"Georgia"	"13"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	84	401826	20.9
+	"2016"	"2016"	"Georgia"	"13"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	21	321938	6.5
+	"2016"	"2016"	"Georgia"	"13"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	18	285927	Unreliable
+	"2016"	"2016"	"Hawaii"	"15"	"Asian or Pacific Islander"	"A-PI"	"45-54 years"	"45-54"	"Male"	"M"	22	58729	37.5
+	"2016"	"2016"	"Hawaii"	"15"	"Asian or Pacific Islander"	"A-PI"	"55-64 years"	"55-64"	"Female"	"F"	13	63994	Unreliable
+	"2016"	"2016"	"Hawaii"	"15"	"Asian or Pacific Islander"	"A-PI"	"55-64 years"	"55-64"	"Male"	"M"	17	57844	Unreliable
+	"2016"	"2016"	"Hawaii"	"15"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	12	29628	Unreliable
+	"2016"	"2016"	"Hawaii"	"15"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	12	27452	Unreliable
+	"2016"	"2016"	"Hawaii"	"15"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	15	30492	Unreliable
+	"2016"	"2016"	"Idaho"	"16"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	21	105172	20.0
+	"2016"	"2016"	"Idaho"	"16"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	10	96088	Unreliable
+	"2016"	"2016"	"Idaho"	"16"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	17	98834	Unreliable
+	"2016"	"2016"	"Idaho"	"16"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	17	94675	Unreliable
+	"2016"	"2016"	"Idaho"	"16"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	15	102379	Unreliable
+	"2016"	"2016"	"Idaho"	"16"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	19	98532	Unreliable
+	"2016"	"2016"	"Illinois"	"17"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	23	136636	16.8
+	"2016"	"2016"	"Illinois"	"17"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	25	129384	19.3
+	"2016"	"2016"	"Illinois"	"17"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	37	110826	33.4
+	"2016"	"2016"	"Illinois"	"17"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	42	132030	31.8
+	"2016"	"2016"	"Illinois"	"17"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	95	112129	84.7
+	"2016"	"2016"	"Illinois"	"17"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	29	125380	23.1
+	"2016"	"2016"	"Illinois"	"17"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	74	100129	73.9
+	"2016"	"2016"	"Illinois"	"17"	"Black or African American"	"2054-5"	"65-74 years"	"65-74"	"Male"	"M"	18	54414	Unreliable
+	"2016"	"2016"	"Illinois"	"17"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	28	631883	4.4
+	"2016"	"2016"	"Illinois"	"17"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	65	661084	9.8
+	"2016"	"2016"	"Illinois"	"17"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	61	659141	9.3
+	"2016"	"2016"	"Illinois"	"17"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	162	687425	23.6
+	"2016"	"2016"	"Illinois"	"17"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	56	624966	9.0
+	"2016"	"2016"	"Illinois"	"17"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	137	644662	21.3
+	"2016"	"2016"	"Illinois"	"17"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	80	678382	11.8
+	"2016"	"2016"	"Illinois"	"17"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	103	683273	15.1
+	"2016"	"2016"	"Illinois"	"17"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	55	682976	8.1
+	"2016"	"2016"	"Illinois"	"17"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	78	662998	11.8
+	"2016"	"2016"	"Illinois"	"17"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	13	417695	Unreliable
+	"2016"	"2016"	"Indiana"	"18"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	11	31802	Unreliable
+	"2016"	"2016"	"Indiana"	"18"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	10	381408	Unreliable
+	"2016"	"2016"	"Indiana"	"18"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	27	397746	6.8
+	"2016"	"2016"	"Indiana"	"18"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	42	359631	11.7
+	"2016"	"2016"	"Indiana"	"18"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	95	366067	26.0
+	"2016"	"2016"	"Indiana"	"18"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	45	347980	12.9
+	"2016"	"2016"	"Indiana"	"18"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	70	351625	19.9
+	"2016"	"2016"	"Indiana"	"18"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	51	383179	13.3
+	"2016"	"2016"	"Indiana"	"18"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	68	382695	17.8
+	"2016"	"2016"	"Indiana"	"18"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	42	397063	10.6
+	"2016"	"2016"	"Indiana"	"18"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	50	382448	13.1
+	"2016"	"2016"	"Iowa"	"19"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	11	202890	Unreliable
+	"2016"	"2016"	"Iowa"	"19"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	20	180593	11.1
+	"2016"	"2016"	"Iowa"	"19"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	15	170143	Unreliable
+	"2016"	"2016"	"Iowa"	"19"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	20	183219	10.9
+	"2016"	"2016"	"Iowa"	"19"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	26	183551	14.2
+	"2016"	"2016"	"Iowa"	"19"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	16	202002	Unreliable
+	"2016"	"2016"	"Iowa"	"19"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	28	198587	14.1
+	"2016"	"2016"	"Iowa"	"19"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	10	131569	Unreliable
+	"2016"	"2016"	"Kansas"	"20"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	10	183667	Unreliable
+	"2016"	"2016"	"Kansas"	"20"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	10	161427	Unreliable
+	"2016"	"2016"	"Kansas"	"20"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	17	168135	Unreliable
+	"2016"	"2016"	"Kansas"	"20"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	15	149120	Unreliable
+	"2016"	"2016"	"Kansas"	"20"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	17	153779	Unreliable
+	"2016"	"2016"	"Kansas"	"20"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	21	158572	13.2
+	"2016"	"2016"	"Kansas"	"20"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	27	157984	17.1
+	"2016"	"2016"	"Kansas"	"20"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	26	174158	14.9
+	"2016"	"2016"	"Kansas"	"20"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	22	166628	13.2
+	"2016"	"2016"	"Kentucky"	"21"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	12	247998	Unreliable
+	"2016"	"2016"	"Kentucky"	"21"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	28	262360	10.7
+	"2016"	"2016"	"Kentucky"	"21"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	65	250218	26.0
+	"2016"	"2016"	"Kentucky"	"21"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	90	253792	35.5
+	"2016"	"2016"	"Kentucky"	"21"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	105	245515	42.8
+	"2016"	"2016"	"Kentucky"	"21"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	157	245319	64.0
+	"2016"	"2016"	"Kentucky"	"21"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	96	272562	35.2
+	"2016"	"2016"	"Kentucky"	"21"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	135	266902	50.6
+	"2016"	"2016"	"Kentucky"	"21"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	63	278799	22.6
+	"2016"	"2016"	"Kentucky"	"21"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	95	260740	36.4
+	"2016"	"2016"	"Kentucky"	"21"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	15	180995	Unreliable
+	"2016"	"2016"	"Louisiana"	"22"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Female"	"F"	14	121305	Unreliable
+	"2016"	"2016"	"Louisiana"	"22"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	21	113555	18.5
+	"2016"	"2016"	"Louisiana"	"22"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	39	86804	44.9
+	"2016"	"2016"	"Louisiana"	"22"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	33	83279	39.6
+	"2016"	"2016"	"Louisiana"	"22"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	33	81216	40.6
+	"2016"	"2016"	"Louisiana"	"22"	"Black or African American"	"2054-5"	"65-74 years"	"65-74"	"Male"	"M"	10	45048	Unreliable
+	"2016"	"2016"	"Louisiana"	"22"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	25	186423	13.4
+	"2016"	"2016"	"Louisiana"	"22"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	27	208820	12.9
+	"2016"	"2016"	"Louisiana"	"22"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	58	215148	27.0
+	"2016"	"2016"	"Louisiana"	"22"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	34	180804	18.8
+	"2016"	"2016"	"Louisiana"	"22"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	57	187889	30.3
+	"2016"	"2016"	"Louisiana"	"22"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	40	197259	20.3
+	"2016"	"2016"	"Louisiana"	"22"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	57	196394	29.0
+	"2016"	"2016"	"Louisiana"	"22"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	27	209327	12.9
+	"2016"	"2016"	"Louisiana"	"22"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	38	201108	18.9
+	"2016"	"2016"	"Louisiana"	"22"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	12	137297	Unreliable
+	"2016"	"2016"	"Maine"	"23"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	10	71555	Unreliable
+	"2016"	"2016"	"Maine"	"23"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	15	75531	Unreliable
+	"2016"	"2016"	"Maine"	"23"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	26	74532	34.9
+	"2016"	"2016"	"Maine"	"23"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	65	74464	87.3
+	"2016"	"2016"	"Maine"	"23"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	30	72882	41.2
+	"2016"	"2016"	"Maine"	"23"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	63	71029	88.7
+	"2016"	"2016"	"Maine"	"23"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	23	94337	24.4
+	"2016"	"2016"	"Maine"	"23"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	66	90418	73.0
+	"2016"	"2016"	"Maine"	"23"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	11	106294	Unreliable
+	"2016"	"2016"	"Maine"	"23"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	30	99315	30.2
+	"2016"	"2016"	"Maryland"	"24"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	28	132220	21.2
+	"2016"	"2016"	"Maryland"	"24"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	16	133805	Unreliable
+	"2016"	"2016"	"Maryland"	"24"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	35	113707	30.8
+	"2016"	"2016"	"Maryland"	"24"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	37	148060	25.0
+	"2016"	"2016"	"Maryland"	"24"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	91	124854	72.9
+	"2016"	"2016"	"Maryland"	"24"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	28	128699	21.8
+	"2016"	"2016"	"Maryland"	"24"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	85	101402	83.8
+	"2016"	"2016"	"Maryland"	"24"	"Black or African American"	"2054-5"	"65-74 years"	"65-74"	"Male"	"M"	21	55544	37.8
+	"2016"	"2016"	"Maryland"	"24"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	16	216365	Unreliable
+	"2016"	"2016"	"Maryland"	"24"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	32	229485	13.9
+	"2016"	"2016"	"Maryland"	"24"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	65	236005	27.5
+	"2016"	"2016"	"Maryland"	"24"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	141	246167	57.3
+	"2016"	"2016"	"Maryland"	"24"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	53	216548	24.5
+	"2016"	"2016"	"Maryland"	"24"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	117	221211	52.9
+	"2016"	"2016"	"Maryland"	"24"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	75	260767	28.8
+	"2016"	"2016"	"Maryland"	"24"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	114	255352	44.6
+	"2016"	"2016"	"Maryland"	"24"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	34	262181	13.0
+	"2016"	"2016"	"Maryland"	"24"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	82	251149	32.6
+	"2016"	"2016"	"Maryland"	"24"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	17	165615	Unreliable
+	"2016"	"2016"	"Massachusetts"	"25"	"Black or African American"	"2054-5"	"15-24 years"	"15-24"	"Male"	"M"	11	55317	Unreliable
+	"2016"	"2016"	"Massachusetts"	"25"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	19	50802	Unreliable
+	"2016"	"2016"	"Massachusetts"	"25"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	14	43461	Unreliable
+	"2016"	"2016"	"Massachusetts"	"25"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	19	39619	Unreliable
+	"2016"	"2016"	"Massachusetts"	"25"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	15	41771	Unreliable
+	"2016"	"2016"	"Massachusetts"	"25"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	16	37475	Unreliable
+	"2016"	"2016"	"Massachusetts"	"25"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	10	33571	Unreliable
+	"2016"	"2016"	"Massachusetts"	"25"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	24	29123	82.4
+	"2016"	"2016"	"Massachusetts"	"25"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	37	379239	9.8
+	"2016"	"2016"	"Massachusetts"	"25"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	118	382882	30.8
+	"2016"	"2016"	"Massachusetts"	"25"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	164	372601	44.0
+	"2016"	"2016"	"Massachusetts"	"25"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	473	377421	125.3
+	"2016"	"2016"	"Massachusetts"	"25"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	126	333761	37.8
+	"2016"	"2016"	"Massachusetts"	"25"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	426	324330	131.3
+	"2016"	"2016"	"Massachusetts"	"25"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	146	418059	34.9
+	"2016"	"2016"	"Massachusetts"	"25"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	364	397707	91.5
+	"2016"	"2016"	"Massachusetts"	"25"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	96	418508	22.9
+	"2016"	"2016"	"Massachusetts"	"25"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	215	390403	55.1
+	"2016"	"2016"	"Massachusetts"	"25"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	26	256729	10.1
+	"2016"	"2016"	"Michigan"	"26"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Female"	"F"	16	106751	Unreliable
+	"2016"	"2016"	"Michigan"	"26"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	18	102371	Unreliable
+	"2016"	"2016"	"Michigan"	"26"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	14	94827	Unreliable
+	"2016"	"2016"	"Michigan"	"26"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	27	82505	32.7
+	"2016"	"2016"	"Michigan"	"26"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	24	97353	24.7
+	"2016"	"2016"	"Michigan"	"26"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	41	84795	48.4
+	"2016"	"2016"	"Michigan"	"26"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	27	92300	29.3
+	"2016"	"2016"	"Michigan"	"26"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	67	75366	88.9
+	"2016"	"2016"	"Michigan"	"26"	"Black or African American"	"2054-5"	"65-74 years"	"65-74"	"Male"	"M"	21	43889	47.8
+	"2016"	"2016"	"Michigan"	"26"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	26	512838	5.1
+	"2016"	"2016"	"Michigan"	"26"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	81	541185	15.0
+	"2016"	"2016"	"Michigan"	"26"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	112	478665	23.4
+	"2016"	"2016"	"Michigan"	"26"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	274	496573	55.2
+	"2016"	"2016"	"Michigan"	"26"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	102	455307	22.4
+	"2016"	"2016"	"Michigan"	"26"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	226	460787	49.0
+	"2016"	"2016"	"Michigan"	"26"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	135	556894	24.2
+	"2016"	"2016"	"Michigan"	"26"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	201	554693	36.2
+	"2016"	"2016"	"Michigan"	"26"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	85	604150	14.1
+	"2016"	"2016"	"Michigan"	"26"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	134	582227	23.0
+	"2016"	"2016"	"Michigan"	"26"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	12	423963	Unreliable
+	"2016"	"2016"	"Michigan"	"26"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	23	390139	5.9
+	"2016"	"2016"	"Minnesota"	"27"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	14	20357	Unreliable
+	"2016"	"2016"	"Minnesota"	"27"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	12	13481	Unreliable
+	"2016"	"2016"	"Minnesota"	"27"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	39	301919	12.9
+	"2016"	"2016"	"Minnesota"	"27"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	20	298522	6.7
+	"2016"	"2016"	"Minnesota"	"27"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	66	313373	21.1
+	"2016"	"2016"	"Minnesota"	"27"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	23	281553	8.2
+	"2016"	"2016"	"Minnesota"	"27"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	60	292166	20.5
+	"2016"	"2016"	"Minnesota"	"27"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	25	324788	7.7
+	"2016"	"2016"	"Minnesota"	"27"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	60	325105	18.5
+	"2016"	"2016"	"Minnesota"	"27"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	36	346346	10.4
+	"2016"	"2016"	"Minnesota"	"27"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	36	340614	10.6
+	"2016"	"2016"	"Minnesota"	"27"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	10	215579	Unreliable
+	"2016"	"2016"	"Mississippi"	"28"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	10	110107	Unreliable
+	"2016"	"2016"	"Mississippi"	"28"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	25	112654	22.2
+	"2016"	"2016"	"Mississippi"	"28"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	14	105523	Unreliable
+	"2016"	"2016"	"Mississippi"	"28"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	19	108624	Unreliable
+	"2016"	"2016"	"Mississippi"	"28"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	18	117534	Unreliable
+	"2016"	"2016"	"Mississippi"	"28"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	18	118788	Unreliable
+	"2016"	"2016"	"Mississippi"	"28"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	17	124722	Unreliable
+	"2016"	"2016"	"Mississippi"	"28"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	12	118578	Unreliable
+	"2016"	"2016"	"Missouri"	"29"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Female"	"F"	18	57826	Unreliable
+	"2016"	"2016"	"Missouri"	"29"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	34	54314	62.6
+	"2016"	"2016"	"Missouri"	"29"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	10	48951	Unreliable
+	"2016"	"2016"	"Missouri"	"29"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	46	42133	109.2
+	"2016"	"2016"	"Missouri"	"29"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	11	48160	Unreliable
+	"2016"	"2016"	"Missouri"	"29"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	28	42087	66.5
+	"2016"	"2016"	"Missouri"	"29"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	11	45658	Unreliable
+	"2016"	"2016"	"Missouri"	"29"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	37	37913	97.6
+	"2016"	"2016"	"Missouri"	"29"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	25	321798	7.8
+	"2016"	"2016"	"Missouri"	"29"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	66	338415	19.5
+	"2016"	"2016"	"Missouri"	"29"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	51	331369	15.4
+	"2016"	"2016"	"Missouri"	"29"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	134	337153	39.7
+	"2016"	"2016"	"Missouri"	"29"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	60	303658	19.8
+	"2016"	"2016"	"Missouri"	"29"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	109	308016	35.4
+	"2016"	"2016"	"Missouri"	"29"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	83	340108	24.4
+	"2016"	"2016"	"Missouri"	"29"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	97	336749	28.8
+	"2016"	"2016"	"Missouri"	"29"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	46	366655	12.5
+	"2016"	"2016"	"Missouri"	"29"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	71	348682	20.4
+	"2016"	"2016"	"Missouri"	"29"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	11	237572	Unreliable
+	"2016"	"2016"	"Montana"	"30"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	11	58174	Unreliable
+	"2016"	"2016"	"Nebraska"	"31"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	10	112069	Unreliable
+	"2016"	"2016"	"Nevada"	"32"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	10	131614	Unreliable
+	"2016"	"2016"	"Nevada"	"32"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	15	139334	Unreliable
+	"2016"	"2016"	"Nevada"	"32"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	17	154563	Unreliable
+	"2016"	"2016"	"Nevada"	"32"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	33	163723	20.2
+	"2016"	"2016"	"Nevada"	"32"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	24	142508	16.8
+	"2016"	"2016"	"Nevada"	"32"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	32	152000	21.1
+	"2016"	"2016"	"Nevada"	"32"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	47	146854	32.0
+	"2016"	"2016"	"Nevada"	"32"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	38	159109	23.9
+	"2016"	"2016"	"Nevada"	"32"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	47	144484	32.5
+	"2016"	"2016"	"Nevada"	"32"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	41	145319	28.2
+	"2016"	"2016"	"Nevada"	"32"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	12	114440	Unreliable
+	"2016"	"2016"	"Nevada"	"32"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	15	111975	Unreliable
+	"2016"	"2016"	"New Hampshire"	"33"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	17	80901	Unreliable
+	"2016"	"2016"	"New Hampshire"	"33"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	39	84034	46.4
+	"2016"	"2016"	"New Hampshire"	"33"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	33	72412	45.6
+	"2016"	"2016"	"New Hampshire"	"33"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	125	76699	163.0
+	"2016"	"2016"	"New Hampshire"	"33"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	36	71439	50.4
+	"2016"	"2016"	"New Hampshire"	"33"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	73	70506	103.5
+	"2016"	"2016"	"New Hampshire"	"33"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	29	97145	29.9
+	"2016"	"2016"	"New Hampshire"	"33"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	60	94766	63.3
+	"2016"	"2016"	"New Hampshire"	"33"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	12	101782	Unreliable
+	"2016"	"2016"	"New Hampshire"	"33"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	35	98600	35.5
+	"2016"	"2016"	"New Jersey"	"34"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Female"	"F"	16	103165	Unreliable
+	"2016"	"2016"	"New Jersey"	"34"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	20	100520	19.9
+	"2016"	"2016"	"New Jersey"	"34"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	19	98067	Unreliable
+	"2016"	"2016"	"New Jersey"	"34"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	25	87525	28.6
+	"2016"	"2016"	"New Jersey"	"34"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	49	105032	46.7
+	"2016"	"2016"	"New Jersey"	"34"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	71	90492	78.5
+	"2016"	"2016"	"New Jersey"	"34"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	26	86175	30.2
+	"2016"	"2016"	"New Jersey"	"34"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	42	70492	59.6
+	"2016"	"2016"	"New Jersey"	"34"	"Black or African American"	"2054-5"	"65-74 years"	"65-74"	"Male"	"M"	11	36858	Unreliable
+	"2016"	"2016"	"New Jersey"	"34"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	40	391877	10.2
+	"2016"	"2016"	"New Jersey"	"34"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	98	417076	23.5
+	"2016"	"2016"	"New Jersey"	"34"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	92	388139	23.7
+	"2016"	"2016"	"New Jersey"	"34"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	301	410079	73.4
+	"2016"	"2016"	"New Jersey"	"34"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	59	393762	15.0
+	"2016"	"2016"	"New Jersey"	"34"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	220	397365	55.4
+	"2016"	"2016"	"New Jersey"	"34"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	79	489520	16.1
+	"2016"	"2016"	"New Jersey"	"34"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	214	475384	45.0
+	"2016"	"2016"	"New Jersey"	"34"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	57	479443	11.9
+	"2016"	"2016"	"New Jersey"	"34"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	102	455411	22.4
+	"2016"	"2016"	"New Jersey"	"34"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	17	288861	Unreliable
+	"2016"	"2016"	"New Mexico"	"35"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	10	119294	Unreliable
+	"2016"	"2016"	"New Mexico"	"35"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	13	109538	Unreliable
+	"2016"	"2016"	"New Mexico"	"35"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	27	116514	23.2
+	"2016"	"2016"	"New Mexico"	"35"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	20	99288	20.1
+	"2016"	"2016"	"New Mexico"	"35"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	18	100872	Unreliable
+	"2016"	"2016"	"New Mexico"	"35"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	20	108154	18.5
+	"2016"	"2016"	"New Mexico"	"35"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	25	105049	23.8
+	"2016"	"2016"	"New Mexico"	"35"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	23	125110	18.4
+	"2016"	"2016"	"New Mexico"	"35"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	22	114345	19.2
+	"2016"	"2016"	"New Mexico"	"35"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	10	87478	Unreliable
+	"2016"	"2016"	"New York"	"36"	"Asian or Pacific Islander"	"A-PI"	"15-24 years"	"15-24"	"Male"	"M"	10	121745	Unreliable
+	"2016"	"2016"	"New York"	"36"	"Asian or Pacific Islander"	"A-PI"	"25-34 years"	"25-34"	"Male"	"M"	11	154937	Unreliable
+	"2016"	"2016"	"New York"	"36"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Female"	"F"	14	291591	Unreliable
+	"2016"	"2016"	"New York"	"36"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	36	278029	12.9
+	"2016"	"2016"	"New York"	"36"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	30	249130	12.0
+	"2016"	"2016"	"New York"	"36"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	41	213304	19.2
+	"2016"	"2016"	"New York"	"36"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	56	269952	20.7
+	"2016"	"2016"	"New York"	"36"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	122	223723	54.5
+	"2016"	"2016"	"New York"	"36"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	46	236124	19.5
+	"2016"	"2016"	"New York"	"36"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	150	186182	80.6
+	"2016"	"2016"	"New York"	"36"	"Black or African American"	"2054-5"	"65-74 years"	"65-74"	"Female"	"F"	10	149342	Unreliable
+	"2016"	"2016"	"New York"	"36"	"Black or African American"	"2054-5"	"65-74 years"	"65-74"	"Male"	"M"	43	102188	42.1
+	"2016"	"2016"	"New York"	"36"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	55	881819	6.2
+	"2016"	"2016"	"New York"	"36"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	181	910066	19.9
+	"2016"	"2016"	"New York"	"36"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	174	962090	18.1
+	"2016"	"2016"	"New York"	"36"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	503	991268	50.7
+	"2016"	"2016"	"New York"	"36"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	148	836014	17.7
+	"2016"	"2016"	"New York"	"36"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	406	850810	47.7
+	"2016"	"2016"	"New York"	"36"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	173	971811	17.8
+	"2016"	"2016"	"New York"	"36"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	451	958630	47.0
+	"2016"	"2016"	"New York"	"36"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	114	980677	11.6
+	"2016"	"2016"	"New York"	"36"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	314	929806	33.8
+	"2016"	"2016"	"New York"	"36"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	24	709178	3.4
+	"2016"	"2016"	"New York"	"36"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	77	615143	12.5
+	"2016"	"2016"	"New York"	"36"	"White"	"2106-3"	"75-84 years"	"75-84"	"Male"	"M"	12	293365	Unreliable
+	"2016"	"2016"	"North Carolina"	"37"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	21	154524	13.6
+	"2016"	"2016"	"North Carolina"	"37"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	18	160451	Unreliable
+	"2016"	"2016"	"North Carolina"	"37"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	24	133778	17.9
+	"2016"	"2016"	"North Carolina"	"37"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	23	139254	16.5
+	"2016"	"2016"	"North Carolina"	"37"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	15	151924	Unreliable
+	"2016"	"2016"	"North Carolina"	"37"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	29	123764	23.4
+	"2016"	"2016"	"North Carolina"	"37"	"Black or African American"	"2054-5"	"65-74 years"	"65-74"	"Male"	"M"	13	71253	Unreliable
+	"2016"	"2016"	"North Carolina"	"37"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	43	447594	9.6
+	"2016"	"2016"	"North Carolina"	"37"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	73	478012	15.3
+	"2016"	"2016"	"North Carolina"	"37"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	112	462148	24.2
+	"2016"	"2016"	"North Carolina"	"37"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	257	464242	55.4
+	"2016"	"2016"	"North Carolina"	"37"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	129	457733	28.2
+	"2016"	"2016"	"North Carolina"	"37"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	213	456940	46.6
+	"2016"	"2016"	"North Carolina"	"37"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	149	512272	29.1
+	"2016"	"2016"	"North Carolina"	"37"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	175	506817	34.5
+	"2016"	"2016"	"North Carolina"	"37"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	88	509711	17.3
+	"2016"	"2016"	"North Carolina"	"37"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	108	472389	22.9
+	"2016"	"2016"	"North Carolina"	"37"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	16	398198	Unreliable
+	"2016"	"2016"	"North Carolina"	"37"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	20	351975	5.7
+	"2016"	"2016"	"North Dakota"	"38"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	10	52970	Unreliable
+	"2016"	"2016"	"Ohio"	"39"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Female"	"F"	13	117151	Unreliable
+	"2016"	"2016"	"Ohio"	"39"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	44	109367	40.2
+	"2016"	"2016"	"Ohio"	"39"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	15	96798	Unreliable
+	"2016"	"2016"	"Ohio"	"39"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	35	87719	39.9
+	"2016"	"2016"	"Ohio"	"39"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	18	97028	Unreliable
+	"2016"	"2016"	"Ohio"	"39"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	39	87863	44.4
+	"2016"	"2016"	"Ohio"	"39"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	16	95115	Unreliable
+	"2016"	"2016"	"Ohio"	"39"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	54	81416	66.3
+	"2016"	"2016"	"Ohio"	"39"	"Black or African American"	"2054-5"	"65-74 years"	"65-74"	"Male"	"M"	13	43142	Unreliable
+	"2016"	"2016"	"Ohio"	"39"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	57	601417	9.5
+	"2016"	"2016"	"Ohio"	"39"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	143	628891	22.7
+	"2016"	"2016"	"Ohio"	"39"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	183	602805	30.4
+	"2016"	"2016"	"Ohio"	"39"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	417	618005	67.5
+	"2016"	"2016"	"Ohio"	"39"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	178	571372	31.2
+	"2016"	"2016"	"Ohio"	"39"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	388	573251	67.7
+	"2016"	"2016"	"Ohio"	"39"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	189	666590	28.4
+	"2016"	"2016"	"Ohio"	"39"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	329	656552	50.1
+	"2016"	"2016"	"Ohio"	"39"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	127	716962	17.7
+	"2016"	"2016"	"Ohio"	"39"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	227	682913	33.2
+	"2016"	"2016"	"Ohio"	"39"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	13	508865	Unreliable
+	"2016"	"2016"	"Ohio"	"39"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	25	453643	5.5
+	"2016"	"2016"	"Oklahoma"	"40"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	12	16558	Unreliable
+	"2016"	"2016"	"Oklahoma"	"40"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	19	204134	Unreliable
+	"2016"	"2016"	"Oklahoma"	"40"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	35	209737	16.7
+	"2016"	"2016"	"Oklahoma"	"40"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	46	183326	25.1
+	"2016"	"2016"	"Oklahoma"	"40"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	40	187757	21.3
+	"2016"	"2016"	"Oklahoma"	"40"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	50	191543	26.1
+	"2016"	"2016"	"Oklahoma"	"40"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	44	191495	23.0
+	"2016"	"2016"	"Oklahoma"	"40"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	44	207997	21.2
+	"2016"	"2016"	"Oklahoma"	"40"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	40	196866	20.3
+	"2016"	"2016"	"Oklahoma"	"40"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	12	155809	Unreliable
+	"2016"	"2016"	"Oklahoma"	"40"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	17	138861	Unreliable
+	"2016"	"2016"	"Oregon"	"41"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	24	225918	10.6
+	"2016"	"2016"	"Oregon"	"41"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	24	248353	9.7
+	"2016"	"2016"	"Oregon"	"41"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	54	255138	21.2
+	"2016"	"2016"	"Oregon"	"41"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	23	231004	10.0
+	"2016"	"2016"	"Oregon"	"41"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	38	238115	16.0
+	"2016"	"2016"	"Oregon"	"41"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	44	230819	19.1
+	"2016"	"2016"	"Oregon"	"41"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	49	232379	21.1
+	"2016"	"2016"	"Oregon"	"41"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	44	263487	16.7
+	"2016"	"2016"	"Oregon"	"41"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	56	244445	22.9
+	"2016"	"2016"	"Oregon"	"41"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	21	204667	10.3
+	"2016"	"2016"	"Oregon"	"41"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	34	188240	18.1
+	"2016"	"2016"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"15-24 years"	"15-24"	"Male"	"M"	12	137007	Unreliable
+	"2016"	"2016"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Female"	"F"	12	121673	Unreliable
+	"2016"	"2016"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	23	121324	19.0
+	"2016"	"2016"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	17	97808	Unreliable
+	"2016"	"2016"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	39	90477	43.1
+	"2016"	"2016"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	27	102104	26.4
+	"2016"	"2016"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	59	92318	63.9
+	"2016"	"2016"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	28	92275	30.3
+	"2016"	"2016"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	54	77601	69.6
+	"2016"	"2016"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"65-74 years"	"65-74"	"Male"	"M"	18	40795	Unreliable
+	"2016"	"2016"	"Pennsylvania"	"42"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	37	645926	5.7
+	"2016"	"2016"	"Pennsylvania"	"42"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	85	671077	12.7
+	"2016"	"2016"	"Pennsylvania"	"42"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	100	654613	15.3
+	"2016"	"2016"	"Pennsylvania"	"42"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	295	685593	43.0
+	"2016"	"2016"	"Pennsylvania"	"42"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	88	601814	14.6
+	"2016"	"2016"	"Pennsylvania"	"42"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	241	608517	39.6
+	"2016"	"2016"	"Pennsylvania"	"42"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	132	743117	17.8
+	"2016"	"2016"	"Pennsylvania"	"42"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	203	731679	27.7
+	"2016"	"2016"	"Pennsylvania"	"42"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	73	810146	9.0
+	"2016"	"2016"	"Pennsylvania"	"42"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	148	776141	19.1
+	"2016"	"2016"	"Pennsylvania"	"42"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	21	585741	3.6
+	"2016"	"2016"	"Pennsylvania"	"42"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	24	524258	4.6
+	"2016"	"2016"	"Pennsylvania"	"42"	"White"	"2106-3"	"75-84 years"	"75-84"	"Male"	"M"	10	253591	Unreliable
+	"2016"	"2016"	"Rhode Island"	"44"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	15	57487	Unreliable
+	"2016"	"2016"	"Rhode Island"	"44"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	32	59752	53.6
+	"2016"	"2016"	"Rhode Island"	"44"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	11	52052	Unreliable
+	"2016"	"2016"	"Rhode Island"	"44"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	24	51025	47.0
+	"2016"	"2016"	"Rhode Island"	"44"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	20	66989	29.9
+	"2016"	"2016"	"Rhode Island"	"44"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	36	62774	57.3
+	"2016"	"2016"	"Rhode Island"	"44"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	11	69633	Unreliable
+	"2016"	"2016"	"Rhode Island"	"44"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	28	63677	44.0
+	"2016"	"2016"	"South Carolina"	"45"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	14	79108	Unreliable
+	"2016"	"2016"	"South Carolina"	"45"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	13	76080	Unreliable
+	"2016"	"2016"	"South Carolina"	"45"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	32	218934	14.6
+	"2016"	"2016"	"South Carolina"	"45"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	30	219145	13.7
+	"2016"	"2016"	"South Carolina"	"45"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	79	219433	36.0
+	"2016"	"2016"	"South Carolina"	"45"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	49	205603	23.8
+	"2016"	"2016"	"South Carolina"	"45"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	80	206850	38.7
+	"2016"	"2016"	"South Carolina"	"45"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	53	233213	22.7
+	"2016"	"2016"	"South Carolina"	"45"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	74	228320	32.4
+	"2016"	"2016"	"South Carolina"	"45"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	46	248711	18.5
+	"2016"	"2016"	"South Carolina"	"45"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	58	226685	25.6
+	"2016"	"2016"	"South Carolina"	"45"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	21	208490	10.1
+	"2016"	"2016"	"South Carolina"	"45"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	11	188960	Unreliable
+	"2016"	"2016"	"Tennessee"	"47"	"Black or African American"	"2054-5"	"15-24 years"	"15-24"	"Male"	"M"	10	96539	Unreliable
+	"2016"	"2016"	"Tennessee"	"47"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	18	84484	Unreliable
+	"2016"	"2016"	"Tennessee"	"47"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	13	68254	Unreliable
+	"2016"	"2016"	"Tennessee"	"47"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	12	78372	Unreliable
+	"2016"	"2016"	"Tennessee"	"47"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	16	66963	Unreliable
+	"2016"	"2016"	"Tennessee"	"47"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	17	59820	Unreliable
+	"2016"	"2016"	"Tennessee"	"47"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	12	323602	Unreliable
+	"2016"	"2016"	"Tennessee"	"47"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	50	336594	14.9
+	"2016"	"2016"	"Tennessee"	"47"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	83	344488	24.1
+	"2016"	"2016"	"Tennessee"	"47"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	153	343634	44.5
+	"2016"	"2016"	"Tennessee"	"47"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	105	328822	31.9
+	"2016"	"2016"	"Tennessee"	"47"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	137	327903	41.8
+	"2016"	"2016"	"Tennessee"	"47"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	163	367447	44.4
+	"2016"	"2016"	"Tennessee"	"47"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	152	360014	42.2
+	"2016"	"2016"	"Tennessee"	"47"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	100	372353	26.9
+	"2016"	"2016"	"Tennessee"	"47"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	109	345384	31.6
+	"2016"	"2016"	"Tennessee"	"47"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	16	287673	Unreliable
+	"2016"	"2016"	"Tennessee"	"47"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	18	258963	Unreliable
+	"2016"	"2016"	"Texas"	"48"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	23	280327	8.2
+	"2016"	"2016"	"Texas"	"48"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	21	259207	8.1
+	"2016"	"2016"	"Texas"	"48"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	26	237552	10.9
+	"2016"	"2016"	"Texas"	"48"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	26	239274	10.9
+	"2016"	"2016"	"Texas"	"48"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	34	217322	15.6
+	"2016"	"2016"	"Texas"	"48"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	28	203769	13.7
+	"2016"	"2016"	"Texas"	"48"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	70	176242	39.7
+	"2016"	"2016"	"Texas"	"48"	"Black or African American"	"2054-5"	"65-74 years"	"65-74"	"Male"	"M"	33	86795	38.0
+	"2016"	"2016"	"Texas"	"48"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	28	1530987	1.8
+	"2016"	"2016"	"Texas"	"48"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	100	1625747	6.2
+	"2016"	"2016"	"Texas"	"48"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	77	1562965	4.9
+	"2016"	"2016"	"Texas"	"48"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	181	1642190	11.0
+	"2016"	"2016"	"Texas"	"48"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	89	1454182	6.1
+	"2016"	"2016"	"Texas"	"48"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	171	1479766	11.6
+	"2016"	"2016"	"Texas"	"48"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	125	1415106	8.8
+	"2016"	"2016"	"Texas"	"48"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	210	1414160	14.8
+	"2016"	"2016"	"Texas"	"48"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	100	1313700	7.6
+	"2016"	"2016"	"Texas"	"48"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	207	1255239	16.5
+	"2016"	"2016"	"Texas"	"48"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	27	901748	3.0
+	"2016"	"2016"	"Texas"	"48"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	35	806914	4.3
+	"2016"	"2016"	"Texas"	"48"	"White"	"2106-3"	"75-84 years"	"75-84"	"Female"	"F"	11	470080	Unreliable
+	"2016"	"2016"	"Utah"	"49"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	23	229241	10.0
+	"2016"	"2016"	"Utah"	"49"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	41	202162	20.3
+	"2016"	"2016"	"Utah"	"49"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	68	206083	33.0
+	"2016"	"2016"	"Utah"	"49"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	45	186719	24.1
+	"2016"	"2016"	"Utah"	"49"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	68	193842	35.1
+	"2016"	"2016"	"Utah"	"49"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	46	144324	31.9
+	"2016"	"2016"	"Utah"	"49"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	49	146847	33.4
+	"2016"	"2016"	"Utah"	"49"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	37	139862	26.5
+	"2016"	"2016"	"Utah"	"49"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	49	134981	36.3
+	"2016"	"2016"	"Utah"	"49"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	11	95217	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	29	34786	83.4
+	"2016"	"2016"	"Vermont"	"50"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	11	33472	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	22	32790	67.1
+	"2016"	"2016"	"Vermont"	"50"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	11	42700	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	19	40792	Unreliable
+	"2016"	"2016"	"Vermont"	"50"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	10	32393	Unreliable
+	"2016"	"2016"	"Virginia"	"51"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	25	126932	19.7
+	"2016"	"2016"	"Virginia"	"51"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	12	113734	Unreliable
+	"2016"	"2016"	"Virginia"	"51"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	20	104512	19.1
+	"2016"	"2016"	"Virginia"	"51"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	11	123178	Unreliable
+	"2016"	"2016"	"Virginia"	"51"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	29	109514	26.5
+	"2016"	"2016"	"Virginia"	"51"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	10	113054	Unreliable
+	"2016"	"2016"	"Virginia"	"51"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	31	96380	32.2
+	"2016"	"2016"	"Virginia"	"51"	"Black or African American"	"2054-5"	"65-74 years"	"65-74"	"Male"	"M"	12	51634	Unreliable
+	"2016"	"2016"	"Virginia"	"51"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	17	372811	Unreliable
+	"2016"	"2016"	"Virginia"	"51"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	67	401955	16.7
+	"2016"	"2016"	"Virginia"	"51"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	71	395771	17.9
+	"2016"	"2016"	"Virginia"	"51"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	183	412467	44.4
+	"2016"	"2016"	"Virginia"	"51"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	74	372739	19.9
+	"2016"	"2016"	"Virginia"	"51"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	114	381684	29.9
+	"2016"	"2016"	"Virginia"	"51"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	72	420348	17.1
+	"2016"	"2016"	"Virginia"	"51"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	116	417913	27.8
+	"2016"	"2016"	"Virginia"	"51"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	46	411877	11.2
+	"2016"	"2016"	"Virginia"	"51"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	80	393799	20.3
+	"2016"	"2016"	"Virginia"	"51"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	12	303571	Unreliable
+	"2016"	"2016"	"Washington"	"53"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	11	356466	Unreliable
+	"2016"	"2016"	"Washington"	"53"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	24	383389	6.3
+	"2016"	"2016"	"Washington"	"53"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	35	413692	8.5
+	"2016"	"2016"	"Washington"	"53"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	69	440932	15.6
+	"2016"	"2016"	"Washington"	"53"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	50	369244	13.5
+	"2016"	"2016"	"Washington"	"53"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	68	384664	17.7
+	"2016"	"2016"	"Washington"	"53"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	74	391865	18.9
+	"2016"	"2016"	"Washington"	"53"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	90	400534	22.5
+	"2016"	"2016"	"Washington"	"53"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	77	418041	18.4
+	"2016"	"2016"	"Washington"	"53"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	112	403243	27.8
+	"2016"	"2016"	"Washington"	"53"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	35	304116	11.5
+	"2016"	"2016"	"Washington"	"53"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	31	281705	11.0
+	"2016"	"2016"	"Washington"	"53"	"White"	"2106-3"	"75-84 years"	"75-84"	"Female"	"F"	10	142378	Unreliable
+	"2016"	"2016"	"Washington"	"53"	"White"	"2106-3"	"85+ years"	"85+"	"Female"	"F"	10	77556	Unreliable
+	"2016"	"2016"	"West Virginia"	"54"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	12	102369	Unreliable
+	"2016"	"2016"	"West Virginia"	"54"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	28	107474	26.1
+	"2016"	"2016"	"West Virginia"	"54"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	58	100939	57.5
+	"2016"	"2016"	"West Virginia"	"54"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	118	103554	114.0
+	"2016"	"2016"	"West Virginia"	"54"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	69	105180	65.6
+	"2016"	"2016"	"West Virginia"	"54"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	162	105537	153.5
+	"2016"	"2016"	"West Virginia"	"54"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	66	116674	56.6
+	"2016"	"2016"	"West Virginia"	"54"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	123	115415	106.6
+	"2016"	"2016"	"West Virginia"	"54"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	35	130905	26.7
+	"2016"	"2016"	"West Virginia"	"54"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	62	123740	50.1
+	"2016"	"2016"	"Wisconsin"	"55"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	12	24251	Unreliable
+	"2016"	"2016"	"Wisconsin"	"55"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	14	21878	Unreliable
+	"2016"	"2016"	"Wisconsin"	"55"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	17	327817	Unreliable
+	"2016"	"2016"	"Wisconsin"	"55"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	43	338554	12.7
+	"2016"	"2016"	"Wisconsin"	"55"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	43	300430	14.3
+	"2016"	"2016"	"Wisconsin"	"55"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	119	317393	37.5
+	"2016"	"2016"	"Wisconsin"	"55"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	53	295977	17.9
+	"2016"	"2016"	"Wisconsin"	"55"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	85	306906	27.7
+	"2016"	"2016"	"Wisconsin"	"55"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	54	352999	15.3
+	"2016"	"2016"	"Wisconsin"	"55"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	77	356181	21.6
+	"2016"	"2016"	"Wisconsin"	"55"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	62	377677	16.4
+	"2016"	"2016"	"Wisconsin"	"55"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	55	373939	14.7
+	"2016"	"2016"	"Wisconsin"	"55"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	16	258251	Unreliable
+	"2016"	"2016"	"Wisconsin"	"55"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	11	244115	Unreliable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2016"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Gender: All"
+"Hispanic Origin: All"
+"MCD - ICD-10 Codes: F11.0 (Mental and behavioural disorders due to use of opioids, acute intoxication), F11.1 (Mental and"
+"behavioural disorders due to use of opioids, harmful use), F11.2 (Mental and behavioural disorders due to use of opioids,"
+"dependence syndrome), F11.3 (Mental and behavioural disorders due to use of opioids, withdrawal state), F11.4 (Mental and"
+"behavioural disorders due to use of opioids, withdrawal state with delirium), F11.5 (Mental and behavioural disorders due to use"
+"of opioids, psychotic disorder), F11.6 (Mental and behavioural disorders due to use of opioids, amnesic syndrome), F11.7 (Mental"
+"and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder), F11.8 (Mental and behavioural"
+"disorders due to use of opioids, other mental and behavioural disorders), F11.9 (Mental and behavioural disorders due to use of"
+"opioids, unspecified mental and behavioural disorder), F19.0 (Mental and behavioural disorders due to multiple drug use and use"
+"of other psychoactive substances, acute intoxication), F19.1 (Mental and behavioural disorders due to multiple drug use and use"
+"of other psychoactive substances, harmful use), F19.2 (Mental and behavioural disorders due to multiple drug use and use of"
+"other psychoactive substances, dependence syndrome), F19.3 (Mental and behavioural disorders due to multiple drug use and use of"
+"other psychoactive substances, withdrawal state), F19.4 (Mental and behavioural disorders due to multiple drug use and use of"
+"other psychoactive substances, withdrawal state with delirium), F19.5 (Mental and behavioural disorders due to multiple drug use"
+"and use of other psychoactive substances, psychotic disorder), F19.6 (Mental and behavioural disorders due to multiple drug use"
+"and use of other psychoactive substances, amnesic syndrome), F19.7 (Mental and behavioural disorders due to multiple drug use"
+"and use of other psychoactive substances, residual and late-onset psychotic disorder), F19.8 (Mental and behavioural disorders"
+"due to multiple drug use and use of other psychoactive substances, other mental and behavioural disorders), F19.9 (Mental and"
+"behavioural disorders due to multiple drug use and use of other psychoactive substances, unspecified mental and behavioural"
+"disorder), T40.2 (Other opioids), Y45.0 (Opioids and related analgesics), Y50.1 (Opioid receptor antagonists)"
+"Place of Death: All"
+"Race: All"
+"States: All"
+"Ten-Year Age Groups: All"
+"UCD - ICD-10 Codes: All"
+"Weekday: All"
+"Year/Month: 2016"
+"Group By: Year, State, Race, Ten-Year Age Groups, Gender"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Mar 12, 2018 11:08:38 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Mar 12, 2018 11:08:38 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"4. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Racial Differences."
+"5. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016"
+"postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for"
+"year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS"
+"on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013."
+"Population figures for 2011 are bridged-race estimates of the July 1 resident population, from the county-level postcensal"
+"Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population"
+"figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident population, from the revised intercensal"
+"county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts."
+"Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for Infant Age"
+"Groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from"
+"previously published reports, due to use of the population estimates which were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"7. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
