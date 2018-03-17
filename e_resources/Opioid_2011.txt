@@ -1,0 +1,571 @@
+"Notes"	"Year"	"Year Code"	"State"	"State Code"	"Race"	"Race Code"	"Ten-Year Age Groups"	"Ten-Year Age Groups Code"	"Gender"	"Gender Code"	Deaths	Population	Crude Rate
+	"2011"	"2011"	"Alabama"	"01"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	13	227453	Unreliable
+	"2011"	"2011"	"Alabama"	"01"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	15	206377	Unreliable
+	"2011"	"2011"	"Alabama"	"01"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	36	211472	17.0
+	"2011"	"2011"	"Alabama"	"01"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	20	214663	9.3
+	"2011"	"2011"	"Alabama"	"01"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	31	217046	14.3
+	"2011"	"2011"	"Alabama"	"01"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	33	249168	13.2
+	"2011"	"2011"	"Alabama"	"01"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	31	246852	12.6
+	"2011"	"2011"	"Alabama"	"01"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	13	222512	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	11	35346	Unreliable
+	"2011"	"2011"	"Alaska"	"02"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	12	43801	Unreliable
+	"2011"	"2011"	"Arizona"	"04"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	10	363581	Unreliable
+	"2011"	"2011"	"Arizona"	"04"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	46	389070	11.8
+	"2011"	"2011"	"Arizona"	"04"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	25	352462	7.1
+	"2011"	"2011"	"Arizona"	"04"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	69	371728	18.6
+	"2011"	"2011"	"Arizona"	"04"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	44	342631	12.8
+	"2011"	"2011"	"Arizona"	"04"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	63	351672	17.9
+	"2011"	"2011"	"Arizona"	"04"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	70	370257	18.9
+	"2011"	"2011"	"Arizona"	"04"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	88	362411	24.3
+	"2011"	"2011"	"Arizona"	"04"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	50	356696	14.0
+	"2011"	"2011"	"Arizona"	"04"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	59	325236	18.1
+	"2011"	"2011"	"Arizona"	"04"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	14	253003	Unreliable
+	"2011"	"2011"	"Arizona"	"04"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	15	230345	Unreliable
+	"2011"	"2011"	"Arkansas"	"05"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	13	158667	Unreliable
+	"2011"	"2011"	"Arkansas"	"05"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	14	147788	Unreliable
+	"2011"	"2011"	"Arkansas"	"05"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	32	152923	20.9
+	"2011"	"2011"	"Arkansas"	"05"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	11	146606	Unreliable
+	"2011"	"2011"	"Arkansas"	"05"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	29	149545	19.4
+	"2011"	"2011"	"Arkansas"	"05"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	18	166673	Unreliable
+	"2011"	"2011"	"Arkansas"	"05"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	40	165957	24.1
+	"2011"	"2011"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"25-34 years"	"25-34"	"Male"	"M"	12	415205	Unreliable
+	"2011"	"2011"	"California"	"06"	"Asian or Pacific Islander"	"A-PI"	"55-64 years"	"55-64"	"Male"	"M"	10	291954	Unreliable
+	"2011"	"2011"	"California"	"06"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	13	197223	Unreliable
+	"2011"	"2011"	"California"	"06"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	12	179191	Unreliable
+	"2011"	"2011"	"California"	"06"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	18	175852	Unreliable
+	"2011"	"2011"	"California"	"06"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	27	195815	13.8
+	"2011"	"2011"	"California"	"06"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	34	191286	17.8
+	"2011"	"2011"	"California"	"06"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	24	145194	16.5
+	"2011"	"2011"	"California"	"06"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	49	131864	37.2
+	"2011"	"2011"	"California"	"06"	"Black or African American"	"2054-5"	"65-74 years"	"65-74"	"Male"	"M"	13	64269	Unreliable
+	"2011"	"2011"	"California"	"06"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	32	2029782	1.6
+	"2011"	"2011"	"California"	"06"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	105	2196759	4.8
+	"2011"	"2011"	"California"	"06"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	49	1936825	2.5
+	"2011"	"2011"	"California"	"06"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	199	2098217	9.5
+	"2011"	"2011"	"California"	"06"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	113	1869556	6.0
+	"2011"	"2011"	"California"	"06"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	203	1955576	10.4
+	"2011"	"2011"	"California"	"06"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	220	1962472	11.2
+	"2011"	"2011"	"California"	"06"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	409	1999986	20.5
+	"2011"	"2011"	"California"	"06"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	166	1650436	10.1
+	"2011"	"2011"	"California"	"06"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	307	1583896	19.4
+	"2011"	"2011"	"California"	"06"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	45	983342	4.6
+	"2011"	"2011"	"California"	"06"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	56	867338	6.5
+	"2011"	"2011"	"California"	"06"	"White"	"2106-3"	"75-84 years"	"75-84"	"Female"	"F"	19	622791	Unreliable
+	"2011"	"2011"	"California"	"06"	"White"	"2106-3"	"75-84 years"	"75-84"	"Male"	"M"	14	475993	Unreliable
+	"2011"	"2011"	"Colorado"	"08"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	20	319341	6.3
+	"2011"	"2011"	"Colorado"	"08"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	25	320072	7.8
+	"2011"	"2011"	"Colorado"	"08"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	46	341848	13.5
+	"2011"	"2011"	"Colorado"	"08"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	24	303484	7.9
+	"2011"	"2011"	"Colorado"	"08"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	35	320526	10.9
+	"2011"	"2011"	"Colorado"	"08"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	42	335519	12.5
+	"2011"	"2011"	"Colorado"	"08"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	39	331673	11.8
+	"2011"	"2011"	"Colorado"	"08"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	17	296485	Unreliable
+	"2011"	"2011"	"Colorado"	"08"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	30	287297	10.4
+	"2011"	"2011"	"Connecticut"	"09"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	17	197478	Unreliable
+	"2011"	"2011"	"Connecticut"	"09"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	10	164892	Unreliable
+	"2011"	"2011"	"Connecticut"	"09"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	36	169276	21.3
+	"2011"	"2011"	"Connecticut"	"09"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	16	193217	Unreliable
+	"2011"	"2011"	"Connecticut"	"09"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	26	187012	13.9
+	"2011"	"2011"	"Connecticut"	"09"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	14	250613	Unreliable
+	"2011"	"2011"	"Connecticut"	"09"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	31	241483	12.8
+	"2011"	"2011"	"Connecticut"	"09"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	16	198832	Unreliable
+	"2011"	"2011"	"Delaware"	"10"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	11	43780	Unreliable
+	"2011"	"2011"	"Delaware"	"10"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	12	39256	Unreliable
+	"2011"	"2011"	"Delaware"	"10"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	23	40309	57.1
+	"2011"	"2011"	"Delaware"	"10"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	10	39974	Unreliable
+	"2011"	"2011"	"Delaware"	"10"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	12	39212	Unreliable
+	"2011"	"2011"	"Delaware"	"10"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	20	50434	39.7
+	"2011"	"2011"	"Delaware"	"10"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	15	48636	Unreliable
+	"2011"	"2011"	"Delaware"	"10"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	10	43907	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	12	24844	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	20	21938	91.2
+	"2011"	"2011"	"District of Columbia"	"11"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	16	22723	Unreliable
+	"2011"	"2011"	"District of Columbia"	"11"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	29	18062	160.6
+	"2011"	"2011"	"Florida"	"12"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Female"	"F"	11	243255	Unreliable
+	"2011"	"2011"	"Florida"	"12"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	10	227320	Unreliable
+	"2011"	"2011"	"Florida"	"12"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	14	221149	Unreliable
+	"2011"	"2011"	"Florida"	"12"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	14	199477	Unreliable
+	"2011"	"2011"	"Florida"	"12"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	13	226424	Unreliable
+	"2011"	"2011"	"Florida"	"12"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	32	203148	15.8
+	"2011"	"2011"	"Florida"	"12"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	12	142146	Unreliable
+	"2011"	"2011"	"Florida"	"12"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	39	880423	4.4
+	"2011"	"2011"	"Florida"	"12"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	81	938934	8.6
+	"2011"	"2011"	"Florida"	"12"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	127	863359	14.7
+	"2011"	"2011"	"Florida"	"12"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	322	903816	35.6
+	"2011"	"2011"	"Florida"	"12"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	152	929208	16.4
+	"2011"	"2011"	"Florida"	"12"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	285	945309	30.1
+	"2011"	"2011"	"Florida"	"12"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	276	1124219	24.6
+	"2011"	"2011"	"Florida"	"12"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	348	1102046	31.6
+	"2011"	"2011"	"Florida"	"12"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	126	1078410	11.7
+	"2011"	"2011"	"Florida"	"12"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	205	975631	21.0
+	"2011"	"2011"	"Florida"	"12"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	31	835369	3.7
+	"2011"	"2011"	"Florida"	"12"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	32	739363	4.3
+	"2011"	"2011"	"Florida"	"12"	"White"	"2106-3"	"75-84 years"	"75-84"	"Female"	"F"	10	557548	Unreliable
+	"2011"	"2011"	"Florida"	"12"	"White"	"2106-3"	"75-84 years"	"75-84"	"Male"	"M"	10	455591	Unreliable
+	"2011"	"2011"	"Georgia"	"13"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	11	239726	Unreliable
+	"2011"	"2011"	"Georgia"	"13"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	12	231992	Unreliable
+	"2011"	"2011"	"Georgia"	"13"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	16	196222	Unreliable
+	"2011"	"2011"	"Georgia"	"13"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	18	133786	Unreliable
+	"2011"	"2011"	"Georgia"	"13"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	17	397747	Unreliable
+	"2011"	"2011"	"Georgia"	"13"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	37	430301	8.6
+	"2011"	"2011"	"Georgia"	"13"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	23	404826	5.7
+	"2011"	"2011"	"Georgia"	"13"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	73	429514	17.0
+	"2011"	"2011"	"Georgia"	"13"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	49	426241	11.5
+	"2011"	"2011"	"Georgia"	"13"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	71	440715	16.1
+	"2011"	"2011"	"Georgia"	"13"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	72	454527	15.8
+	"2011"	"2011"	"Georgia"	"13"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	81	457372	17.7
+	"2011"	"2011"	"Georgia"	"13"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	30	400735	7.5
+	"2011"	"2011"	"Georgia"	"13"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	34	377660	9.0
+	"2011"	"2011"	"Hawaii"	"15"	"Asian or Pacific Islander"	"A-PI"	"45-54 years"	"45-54"	"Male"	"M"	15	61603	Unreliable
+	"2011"	"2011"	"Hawaii"	"15"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	11	28710	Unreliable
+	"2011"	"2011"	"Hawaii"	"15"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	12	30567	Unreliable
+	"2011"	"2011"	"Hawaii"	"15"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	12	33087	Unreliable
+	"2011"	"2011"	"Idaho"	"16"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	11	99664	Unreliable
+	"2011"	"2011"	"Idaho"	"16"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	15	90933	Unreliable
+	"2011"	"2011"	"Illinois"	"17"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	15	114724	Unreliable
+	"2011"	"2011"	"Illinois"	"17"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	10	143613	Unreliable
+	"2011"	"2011"	"Illinois"	"17"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	29	121582	23.9
+	"2011"	"2011"	"Illinois"	"17"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	17	88914	Unreliable
+	"2011"	"2011"	"Illinois"	"17"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	13	658558	Unreliable
+	"2011"	"2011"	"Illinois"	"17"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	34	694618	4.9
+	"2011"	"2011"	"Illinois"	"17"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	21	682077	3.1
+	"2011"	"2011"	"Illinois"	"17"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	63	708915	8.9
+	"2011"	"2011"	"Illinois"	"17"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	27	655358	4.1
+	"2011"	"2011"	"Illinois"	"17"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	56	674337	8.3
+	"2011"	"2011"	"Illinois"	"17"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	45	748569	6.0
+	"2011"	"2011"	"Illinois"	"17"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	65	746101	8.7
+	"2011"	"2011"	"Illinois"	"17"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	15	640993	Unreliable
+	"2011"	"2011"	"Illinois"	"17"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	19	618659	Unreliable
+	"2011"	"2011"	"Indiana"	"18"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	25	403664	6.2
+	"2011"	"2011"	"Indiana"	"18"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	24	355027	6.8
+	"2011"	"2011"	"Indiana"	"18"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	42	362490	11.6
+	"2011"	"2011"	"Indiana"	"18"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	30	359323	8.3
+	"2011"	"2011"	"Indiana"	"18"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	33	365181	9.0
+	"2011"	"2011"	"Indiana"	"18"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	49	419950	11.7
+	"2011"	"2011"	"Indiana"	"18"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	60	416503	14.4
+	"2011"	"2011"	"Indiana"	"18"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	25	373671	6.7
+	"2011"	"2011"	"Indiana"	"18"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	30	358465	8.4
+	"2011"	"2011"	"Iowa"	"19"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	22	182736	12.0
+	"2011"	"2011"	"Iowa"	"19"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	23	166283	13.8
+	"2011"	"2011"	"Iowa"	"19"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	14	169587	Unreliable
+	"2011"	"2011"	"Iowa"	"19"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	18	207155	Unreliable
+	"2011"	"2011"	"Iowa"	"19"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	29	206036	14.1
+	"2011"	"2011"	"Iowa"	"19"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	16	187988	Unreliable
+	"2011"	"2011"	"Kansas"	"20"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	15	169996	Unreliable
+	"2011"	"2011"	"Kansas"	"20"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	10	149723	Unreliable
+	"2011"	"2011"	"Kansas"	"20"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	14	152163	Unreliable
+	"2011"	"2011"	"Kansas"	"20"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	14	181953	Unreliable
+	"2011"	"2011"	"Kansas"	"20"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	24	178670	13.4
+	"2011"	"2011"	"Kansas"	"20"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	10	158157	Unreliable
+	"2011"	"2011"	"Kentucky"	"21"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	12	252932	Unreliable
+	"2011"	"2011"	"Kentucky"	"21"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	32	262779	12.2
+	"2011"	"2011"	"Kentucky"	"21"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	46	249974	18.4
+	"2011"	"2011"	"Kentucky"	"21"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	114	253911	44.9
+	"2011"	"2011"	"Kentucky"	"21"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	70	254886	27.5
+	"2011"	"2011"	"Kentucky"	"21"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	139	256200	54.3
+	"2011"	"2011"	"Kentucky"	"21"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	71	293632	24.2
+	"2011"	"2011"	"Kentucky"	"21"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	133	285640	46.6
+	"2011"	"2011"	"Kentucky"	"21"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	30	266366	11.3
+	"2011"	"2011"	"Kentucky"	"21"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	53	251376	21.1
+	"2011"	"2011"	"Louisiana"	"22"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	14	73319	Unreliable
+	"2011"	"2011"	"Louisiana"	"22"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	10	196283	Unreliable
+	"2011"	"2011"	"Louisiana"	"22"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	20	207374	9.6
+	"2011"	"2011"	"Louisiana"	"22"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	15	180861	Unreliable
+	"2011"	"2011"	"Louisiana"	"22"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	18	186441	Unreliable
+	"2011"	"2011"	"Louisiana"	"22"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	37	216373	17.1
+	"2011"	"2011"	"Louisiana"	"22"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	37	215534	17.2
+	"2011"	"2011"	"Louisiana"	"22"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	11	191090	Unreliable
+	"2011"	"2011"	"Maine"	"23"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	13	69509	Unreliable
+	"2011"	"2011"	"Maine"	"23"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	17	78138	Unreliable
+	"2011"	"2011"	"Maine"	"23"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	10	106665	Unreliable
+	"2011"	"2011"	"Maine"	"23"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	22	102622	21.4
+	"2011"	"2011"	"Maine"	"23"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	11	95862	Unreliable
+	"2011"	"2011"	"Maryland"	"24"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	13	137163	Unreliable
+	"2011"	"2011"	"Maryland"	"24"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	18	123403	Unreliable
+	"2011"	"2011"	"Maryland"	"24"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	11	110920	Unreliable
+	"2011"	"2011"	"Maryland"	"24"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	20	85290	23.4
+	"2011"	"2011"	"Maryland"	"24"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	24	240948	10.0
+	"2011"	"2011"	"Maryland"	"24"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	25	228389	10.9
+	"2011"	"2011"	"Maryland"	"24"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	50	238501	21.0
+	"2011"	"2011"	"Maryland"	"24"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	22	231681	9.5
+	"2011"	"2011"	"Maryland"	"24"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	31	229008	13.5
+	"2011"	"2011"	"Maryland"	"24"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	35	289373	12.1
+	"2011"	"2011"	"Maryland"	"24"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	59	282464	20.9
+	"2011"	"2011"	"Maryland"	"24"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	16	249657	Unreliable
+	"2011"	"2011"	"Maryland"	"24"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	18	239346	Unreliable
+	"2011"	"2011"	"Massachusetts"	"25"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	10	37755	Unreliable
+	"2011"	"2011"	"Massachusetts"	"25"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	16	34587	Unreliable
+	"2011"	"2011"	"Massachusetts"	"25"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	10	22340	Unreliable
+	"2011"	"2011"	"Massachusetts"	"25"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	16	378574	Unreliable
+	"2011"	"2011"	"Massachusetts"	"25"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	62	385146	16.1
+	"2011"	"2011"	"Massachusetts"	"25"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	49	352431	13.9
+	"2011"	"2011"	"Massachusetts"	"25"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	158	350483	45.1
+	"2011"	"2011"	"Massachusetts"	"25"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	73	366857	19.9
+	"2011"	"2011"	"Massachusetts"	"25"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	149	352744	42.2
+	"2011"	"2011"	"Massachusetts"	"25"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	84	451947	18.6
+	"2011"	"2011"	"Massachusetts"	"25"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	168	432647	38.8
+	"2011"	"2011"	"Massachusetts"	"25"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	30	391780	7.7
+	"2011"	"2011"	"Massachusetts"	"25"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	85	362753	23.4
+	"2011"	"2011"	"Michigan"	"26"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	10	88142	Unreliable
+	"2011"	"2011"	"Michigan"	"26"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	25	103600	24.1
+	"2011"	"2011"	"Michigan"	"26"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	17	90366	Unreliable
+	"2011"	"2011"	"Michigan"	"26"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	34	103090	33.0
+	"2011"	"2011"	"Michigan"	"26"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	35	89680	39.0
+	"2011"	"2011"	"Michigan"	"26"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	11	88493	Unreliable
+	"2011"	"2011"	"Michigan"	"26"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	46	71593	64.3
+	"2011"	"2011"	"Michigan"	"26"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	31	532036	5.8
+	"2011"	"2011"	"Michigan"	"26"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	74	556574	13.3
+	"2011"	"2011"	"Michigan"	"26"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	70	458865	15.3
+	"2011"	"2011"	"Michigan"	"26"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	146	469645	31.1
+	"2011"	"2011"	"Michigan"	"26"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	76	493136	15.4
+	"2011"	"2011"	"Michigan"	"26"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	142	496922	28.6
+	"2011"	"2011"	"Michigan"	"26"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	95	625706	15.2
+	"2011"	"2011"	"Michigan"	"26"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	169	618878	27.3
+	"2011"	"2011"	"Michigan"	"26"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	47	565015	8.3
+	"2011"	"2011"	"Michigan"	"26"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	57	547535	10.4
+	"2011"	"2011"	"Michigan"	"26"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	14	308977	Unreliable
+	"2011"	"2011"	"Minnesota"	"27"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	11	17943	Unreliable
+	"2011"	"2011"	"Minnesota"	"27"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	24	308878	7.8
+	"2011"	"2011"	"Minnesota"	"27"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	13	304461	Unreliable
+	"2011"	"2011"	"Minnesota"	"27"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	37	316560	11.7
+	"2011"	"2011"	"Minnesota"	"27"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	21	288266	7.3
+	"2011"	"2011"	"Minnesota"	"27"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	27	293897	9.2
+	"2011"	"2011"	"Minnesota"	"27"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	41	367782	11.1
+	"2011"	"2011"	"Minnesota"	"27"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	52	366062	14.2
+	"2011"	"2011"	"Minnesota"	"27"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	18	312146	Unreliable
+	"2011"	"2011"	"Minnesota"	"27"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	28	308823	9.1
+	"2011"	"2011"	"Minnesota"	"27"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	11	182762	Unreliable
+	"2011"	"2011"	"Mississippi"	"28"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	10	108809	Unreliable
+	"2011"	"2011"	"Mississippi"	"28"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	10	114218	Unreliable
+	"2011"	"2011"	"Mississippi"	"28"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	13	110439	Unreliable
+	"2011"	"2011"	"Mississippi"	"28"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	15	114183	Unreliable
+	"2011"	"2011"	"Mississippi"	"28"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	14	128787	Unreliable
+	"2011"	"2011"	"Mississippi"	"28"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	14	129174	Unreliable
+	"2011"	"2011"	"Missouri"	"29"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	16	48032	Unreliable
+	"2011"	"2011"	"Missouri"	"29"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	11	42306	Unreliable
+	"2011"	"2011"	"Missouri"	"29"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	18	45857	Unreliable
+	"2011"	"2011"	"Missouri"	"29"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	13	32261	Unreliable
+	"2011"	"2011"	"Missouri"	"29"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	16	333471	Unreliable
+	"2011"	"2011"	"Missouri"	"29"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	38	344013	11.0
+	"2011"	"2011"	"Missouri"	"29"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	47	325775	14.4
+	"2011"	"2011"	"Missouri"	"29"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	83	332390	25.0
+	"2011"	"2011"	"Missouri"	"29"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	54	308546	17.5
+	"2011"	"2011"	"Missouri"	"29"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	82	310829	26.4
+	"2011"	"2011"	"Missouri"	"29"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	66	381250	17.3
+	"2011"	"2011"	"Missouri"	"29"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	96	376546	25.5
+	"2011"	"2011"	"Missouri"	"29"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	16	342983	Unreliable
+	"2011"	"2011"	"Missouri"	"29"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	46	324477	14.2
+	"2011"	"2011"	"Nevada"	"32"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	12	133872	Unreliable
+	"2011"	"2011"	"Nevada"	"32"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	31	143326	21.6
+	"2011"	"2011"	"Nevada"	"32"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	22	146186	15.0
+	"2011"	"2011"	"Nevada"	"32"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	51	157384	32.4
+	"2011"	"2011"	"Nevada"	"32"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	28	141790	19.7
+	"2011"	"2011"	"Nevada"	"32"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	47	154843	30.4
+	"2011"	"2011"	"Nevada"	"32"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	46	144520	31.8
+	"2011"	"2011"	"Nevada"	"32"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	64	155744	41.1
+	"2011"	"2011"	"Nevada"	"32"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	28	134043	20.9
+	"2011"	"2011"	"Nevada"	"32"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	41	134656	30.4
+	"2011"	"2011"	"Nevada"	"32"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	15	86920	Unreliable
+	"2011"	"2011"	"New Hampshire"	"33"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	13	86090	Unreliable
+	"2011"	"2011"	"New Hampshire"	"33"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	12	68365	Unreliable
+	"2011"	"2011"	"New Hampshire"	"33"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	27	69419	38.9
+	"2011"	"2011"	"New Hampshire"	"33"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	12	82431	Unreliable
+	"2011"	"2011"	"New Hampshire"	"33"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	25	80412	31.1
+	"2011"	"2011"	"New Hampshire"	"33"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	15	109436	Unreliable
+	"2011"	"2011"	"New Hampshire"	"33"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	26	106681	24.4
+	"2011"	"2011"	"New Hampshire"	"33"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	10	91868	Unreliable
+	"2011"	"2011"	"New Hampshire"	"33"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	15	89929	Unreliable
+	"2011"	"2011"	"New Jersey"	"34"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	11	101427	Unreliable
+	"2011"	"2011"	"New Jersey"	"34"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	11	87937	Unreliable
+	"2011"	"2011"	"New Jersey"	"34"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	10	104544	Unreliable
+	"2011"	"2011"	"New Jersey"	"34"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	25	90335	27.7
+	"2011"	"2011"	"New Jersey"	"34"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	17	58435	Unreliable
+	"2011"	"2011"	"New Jersey"	"34"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	21	393641	5.3
+	"2011"	"2011"	"New Jersey"	"34"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	67	426357	15.7
+	"2011"	"2011"	"New Jersey"	"34"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	36	385708	9.3
+	"2011"	"2011"	"New Jersey"	"34"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	99	402329	24.6
+	"2011"	"2011"	"New Jersey"	"34"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	32	437481	7.3
+	"2011"	"2011"	"New Jersey"	"34"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	99	433331	22.8
+	"2011"	"2011"	"New Jersey"	"34"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	38	536158	7.1
+	"2011"	"2011"	"New Jersey"	"34"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	100	521766	19.2
+	"2011"	"2011"	"New Jersey"	"34"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	20	448112	4.5
+	"2011"	"2011"	"New Jersey"	"34"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	43	420362	10.2
+	"2011"	"2011"	"New Mexico"	"35"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	13	121783	Unreliable
+	"2011"	"2011"	"New Mexico"	"35"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	11	109743	Unreliable
+	"2011"	"2011"	"New Mexico"	"35"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	16	115196	Unreliable
+	"2011"	"2011"	"New Mexico"	"35"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	14	103517	Unreliable
+	"2011"	"2011"	"New Mexico"	"35"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	19	103040	Unreliable
+	"2011"	"2011"	"New Mexico"	"35"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	14	125425	Unreliable
+	"2011"	"2011"	"New Mexico"	"35"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	27	120936	22.3
+	"2011"	"2011"	"New Mexico"	"35"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	10	123070	Unreliable
+	"2011"	"2011"	"New Mexico"	"35"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	23	114363	20.1
+	"2011"	"2011"	"New York"	"36"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	30	256625	11.7
+	"2011"	"2011"	"New York"	"36"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	29	212431	13.7
+	"2011"	"2011"	"New York"	"36"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	59	277934	21.2
+	"2011"	"2011"	"New York"	"36"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	94	229766	40.9
+	"2011"	"2011"	"New York"	"36"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	32	207528	15.4
+	"2011"	"2011"	"New York"	"36"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	99	159546	62.1
+	"2011"	"2011"	"New York"	"36"	"Black or African American"	"2054-5"	"65-74 years"	"65-74"	"Male"	"M"	14	84242	Unreliable
+	"2011"	"2011"	"New York"	"36"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	37	927177	4.0
+	"2011"	"2011"	"New York"	"36"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	112	970037	11.5
+	"2011"	"2011"	"New York"	"36"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	66	933057	7.1
+	"2011"	"2011"	"New York"	"36"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	230	953090	24.1
+	"2011"	"2011"	"New York"	"36"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	85	899647	9.4
+	"2011"	"2011"	"New York"	"36"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	216	908496	23.8
+	"2011"	"2011"	"New York"	"36"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	154	1060991	14.5
+	"2011"	"2011"	"New York"	"36"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	344	1037468	33.2
+	"2011"	"2011"	"New York"	"36"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	70	946215	7.4
+	"2011"	"2011"	"New York"	"36"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	191	883764	21.6
+	"2011"	"2011"	"New York"	"36"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	17	589743	Unreliable
+	"2011"	"2011"	"New York"	"36"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	32	498906	6.4
+	"2011"	"2011"	"North Carolina"	"37"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	17	163819	Unreliable
+	"2011"	"2011"	"North Carolina"	"37"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	19	139597	Unreliable
+	"2011"	"2011"	"North Carolina"	"37"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	20	107473	18.6
+	"2011"	"2011"	"North Carolina"	"37"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	14	439978	Unreliable
+	"2011"	"2011"	"North Carolina"	"37"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	40	469425	8.5
+	"2011"	"2011"	"North Carolina"	"37"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	36	446446	8.1
+	"2011"	"2011"	"North Carolina"	"37"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	81	454918	17.8
+	"2011"	"2011"	"North Carolina"	"37"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	47	475116	9.9
+	"2011"	"2011"	"North Carolina"	"37"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	90	481464	18.7
+	"2011"	"2011"	"North Carolina"	"37"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	86	513752	16.7
+	"2011"	"2011"	"North Carolina"	"37"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	112	503146	22.3
+	"2011"	"2011"	"North Carolina"	"37"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	39	474711	8.2
+	"2011"	"2011"	"North Carolina"	"37"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	47	439540	10.7
+	"2011"	"2011"	"North Carolina"	"37"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	14	313634	Unreliable
+	"2011"	"2011"	"Ohio"	"39"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	13	96675	Unreliable
+	"2011"	"2011"	"Ohio"	"39"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	20	105505	19.0
+	"2011"	"2011"	"Ohio"	"39"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	27	93847	28.8
+	"2011"	"2011"	"Ohio"	"39"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	16	84888	Unreliable
+	"2011"	"2011"	"Ohio"	"39"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	36	71512	50.3
+	"2011"	"2011"	"Ohio"	"39"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	24	629012	3.8
+	"2011"	"2011"	"Ohio"	"39"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	56	652689	8.6
+	"2011"	"2011"	"Ohio"	"39"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	72	586698	12.3
+	"2011"	"2011"	"Ohio"	"39"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	171	594243	28.8
+	"2011"	"2011"	"Ohio"	"39"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	104	610399	17.0
+	"2011"	"2011"	"Ohio"	"39"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	177	609785	29.0
+	"2011"	"2011"	"Ohio"	"39"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	158	748122	21.1
+	"2011"	"2011"	"Ohio"	"39"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	240	730420	32.9
+	"2011"	"2011"	"Ohio"	"39"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	61	683642	8.9
+	"2011"	"2011"	"Ohio"	"39"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	93	652125	14.3
+	"2011"	"2011"	"Ohio"	"39"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	13	415830	Unreliable
+	"2011"	"2011"	"Oklahoma"	"40"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	30	204889	14.6
+	"2011"	"2011"	"Oklahoma"	"40"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	28	194496	14.4
+	"2011"	"2011"	"Oklahoma"	"40"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	48	204600	23.5
+	"2011"	"2011"	"Oklahoma"	"40"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	42	179528	23.4
+	"2011"	"2011"	"Oklahoma"	"40"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	37	183562	20.2
+	"2011"	"2011"	"Oklahoma"	"40"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	67	211744	31.6
+	"2011"	"2011"	"Oklahoma"	"40"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	69	209570	32.9
+	"2011"	"2011"	"Oklahoma"	"40"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	27	197706	13.7
+	"2011"	"2011"	"Oklahoma"	"40"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	34	188140	18.1
+	"2011"	"2011"	"Oregon"	"41"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	29	229258	12.6
+	"2011"	"2011"	"Oregon"	"41"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	18	233469	Unreliable
+	"2011"	"2011"	"Oregon"	"41"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	44	239492	18.4
+	"2011"	"2011"	"Oregon"	"41"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	35	218784	16.0
+	"2011"	"2011"	"Oregon"	"41"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	51	227198	22.4
+	"2011"	"2011"	"Oregon"	"41"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	47	245303	19.2
+	"2011"	"2011"	"Oregon"	"41"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	55	239656	22.9
+	"2011"	"2011"	"Oregon"	"41"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	29	254964	11.4
+	"2011"	"2011"	"Oregon"	"41"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	58	241809	24.0
+	"2011"	"2011"	"Oregon"	"41"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	11	150813	Unreliable
+	"2011"	"2011"	"Oregon"	"41"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	13	139219	Unreliable
+	"2011"	"2011"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	14	98923	Unreliable
+	"2011"	"2011"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	13	99060	Unreliable
+	"2011"	"2011"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	18	90670	Unreliable
+	"2011"	"2011"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	19	106443	Unreliable
+	"2011"	"2011"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	37	95017	38.9
+	"2011"	"2011"	"Pennsylvania"	"42"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	27	67734	39.9
+	"2011"	"2011"	"Pennsylvania"	"42"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	20	698813	2.9
+	"2011"	"2011"	"Pennsylvania"	"42"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	62	725393	8.5
+	"2011"	"2011"	"Pennsylvania"	"42"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	58	623957	9.3
+	"2011"	"2011"	"Pennsylvania"	"42"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	135	639886	21.1
+	"2011"	"2011"	"Pennsylvania"	"42"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	47	657725	7.1
+	"2011"	"2011"	"Pennsylvania"	"42"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	110	658226	16.7
+	"2011"	"2011"	"Pennsylvania"	"42"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	67	838377	8.0
+	"2011"	"2011"	"Pennsylvania"	"42"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	111	820909	13.5
+	"2011"	"2011"	"Pennsylvania"	"42"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	31	768173	4.0
+	"2011"	"2011"	"Pennsylvania"	"42"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	48	737504	6.5
+	"2011"	"2011"	"Pennsylvania"	"42"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	12	420366	Unreliable
+	"2011"	"2011"	"Rhode Island"	"44"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	16	53821	Unreliable
+	"2011"	"2011"	"Rhode Island"	"44"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	14	53834	Unreliable
+	"2011"	"2011"	"Rhode Island"	"44"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	10	58540	Unreliable
+	"2011"	"2011"	"Rhode Island"	"44"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	28	56001	50.0
+	"2011"	"2011"	"Rhode Island"	"44"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	18	74451	Unreliable
+	"2011"	"2011"	"Rhode Island"	"44"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	31	69530	44.6
+	"2011"	"2011"	"Rhode Island"	"44"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	10	65027	Unreliable
+	"2011"	"2011"	"Rhode Island"	"44"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	20	60386	33.1
+	"2011"	"2011"	"South Carolina"	"45"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	18	218373	Unreliable
+	"2011"	"2011"	"South Carolina"	"45"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	12	199440	Unreliable
+	"2011"	"2011"	"South Carolina"	"45"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	33	205608	16.0
+	"2011"	"2011"	"South Carolina"	"45"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	21	204518	10.3
+	"2011"	"2011"	"South Carolina"	"45"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	29	208208	13.9
+	"2011"	"2011"	"South Carolina"	"45"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	40	233109	17.2
+	"2011"	"2011"	"South Carolina"	"45"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	39	228056	17.1
+	"2011"	"2011"	"South Carolina"	"45"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	21	212239	9.9
+	"2011"	"2011"	"Tennessee"	"47"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	10	69119	Unreliable
+	"2011"	"2011"	"Tennessee"	"47"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	25	333981	7.5
+	"2011"	"2011"	"Tennessee"	"47"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	33	325896	10.1
+	"2011"	"2011"	"Tennessee"	"47"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	69	327582	21.1
+	"2011"	"2011"	"Tennessee"	"47"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	63	337190	18.7
+	"2011"	"2011"	"Tennessee"	"47"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	102	339456	30.0
+	"2011"	"2011"	"Tennessee"	"47"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	95	382502	24.8
+	"2011"	"2011"	"Tennessee"	"47"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	111	370910	29.9
+	"2011"	"2011"	"Tennessee"	"47"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	35	356078	9.8
+	"2011"	"2011"	"Tennessee"	"47"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	36	332840	10.8
+	"2011"	"2011"	"Texas"	"48"	"Black or African American"	"2054-5"	"25-34 years"	"25-34"	"Male"	"M"	15	231697	Unreliable
+	"2011"	"2011"	"Texas"	"48"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Female"	"F"	15	233008	Unreliable
+	"2011"	"2011"	"Texas"	"48"	"Black or African American"	"2054-5"	"35-44 years"	"35-44"	"Male"	"M"	20	211475	9.5
+	"2011"	"2011"	"Texas"	"48"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Female"	"F"	23	230225	10.0
+	"2011"	"2011"	"Texas"	"48"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	45	210649	21.4
+	"2011"	"2011"	"Texas"	"48"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Female"	"F"	15	165004	Unreliable
+	"2011"	"2011"	"Texas"	"48"	"Black or African American"	"2054-5"	"55-64 years"	"55-64"	"Male"	"M"	31	142502	21.8
+	"2011"	"2011"	"Texas"	"48"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	21	1464797	1.4
+	"2011"	"2011"	"Texas"	"48"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	96	1558591	6.2
+	"2011"	"2011"	"Texas"	"48"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	61	1455956	4.2
+	"2011"	"2011"	"Texas"	"48"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	138	1516242	9.1
+	"2011"	"2011"	"Texas"	"48"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	71	1395946	5.1
+	"2011"	"2011"	"Texas"	"48"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	127	1410600	9.0
+	"2011"	"2011"	"Texas"	"48"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	119	1416480	8.4
+	"2011"	"2011"	"Texas"	"48"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	179	1413574	12.7
+	"2011"	"2011"	"Texas"	"48"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	61	1178129	5.2
+	"2011"	"2011"	"Texas"	"48"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	117	1120818	10.4
+	"2011"	"2011"	"Texas"	"48"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	16	705263	Unreliable
+	"2011"	"2011"	"Texas"	"48"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	16	629713	Unreliable
+	"2011"	"2011"	"Utah"	"49"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	17	207777	Unreliable
+	"2011"	"2011"	"Utah"	"49"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	35	212931	16.4
+	"2011"	"2011"	"Utah"	"49"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	30	203125	14.8
+	"2011"	"2011"	"Utah"	"49"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	51	211254	24.1
+	"2011"	"2011"	"Utah"	"49"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	31	156274	19.8
+	"2011"	"2011"	"Utah"	"49"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	40	162608	24.6
+	"2011"	"2011"	"Utah"	"49"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	47	143741	32.7
+	"2011"	"2011"	"Utah"	"49"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	40	143225	27.9
+	"2011"	"2011"	"Utah"	"49"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	21	122723	17.1
+	"2011"	"2011"	"Utah"	"49"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	20	119048	16.8
+	"2011"	"2011"	"Vermont"	"50"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	13	36122	Unreliable
+	"2011"	"2011"	"Virginia"	"51"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	12	376954	Unreliable
+	"2011"	"2011"	"Virginia"	"51"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	39	403718	9.7
+	"2011"	"2011"	"Virginia"	"51"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	29	386336	7.5
+	"2011"	"2011"	"Virginia"	"51"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	66	403742	16.3
+	"2011"	"2011"	"Virginia"	"51"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	51	387198	13.2
+	"2011"	"2011"	"Virginia"	"51"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	82	391235	21.0
+	"2011"	"2011"	"Virginia"	"51"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	64	447805	14.3
+	"2011"	"2011"	"Virginia"	"51"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	74	442522	16.7
+	"2011"	"2011"	"Virginia"	"51"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	19	393012	Unreliable
+	"2011"	"2011"	"Virginia"	"51"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	31	373025	8.3
+	"2011"	"2011"	"Washington"	"53"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	19	394095	Unreliable
+	"2011"	"2011"	"Washington"	"53"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	38	381151	10.0
+	"2011"	"2011"	"Washington"	"53"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	58	403479	14.4
+	"2011"	"2011"	"Washington"	"53"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	39	365500	10.7
+	"2011"	"2011"	"Washington"	"53"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	62	380885	16.3
+	"2011"	"2011"	"Washington"	"53"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	80	418202	19.1
+	"2011"	"2011"	"Washington"	"53"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	102	420282	24.3
+	"2011"	"2011"	"Washington"	"53"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	58	393385	14.7
+	"2011"	"2011"	"Washington"	"53"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	80	379181	21.1
+	"2011"	"2011"	"Washington"	"53"	"White"	"2106-3"	"65-74 years"	"65-74"	"Female"	"F"	17	225247	Unreliable
+	"2011"	"2011"	"Washington"	"53"	"White"	"2106-3"	"65-74 years"	"65-74"	"Male"	"M"	11	211004	Unreliable
+	"2011"	"2011"	"West Virginia"	"54"	"White"	"2106-3"	"15-24 years"	"15-24"	"Female"	"F"	17	109094	Unreliable
+	"2011"	"2011"	"West Virginia"	"54"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	19	113394	Unreliable
+	"2011"	"2011"	"West Virginia"	"54"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	39	103195	37.8
+	"2011"	"2011"	"West Virginia"	"54"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	115	104195	110.4
+	"2011"	"2011"	"West Virginia"	"54"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	54	110778	48.7
+	"2011"	"2011"	"West Virginia"	"54"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	101	111716	90.4
+	"2011"	"2011"	"West Virginia"	"54"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	62	130874	47.4
+	"2011"	"2011"	"West Virginia"	"54"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	96	127414	75.3
+	"2011"	"2011"	"West Virginia"	"54"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	18	133413	Unreliable
+	"2011"	"2011"	"West Virginia"	"54"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	40	128890	31.0
+	"2011"	"2011"	"Wisconsin"	"55"	"Black or African American"	"2054-5"	"45-54 years"	"45-54"	"Male"	"M"	14	22101	Unreliable
+	"2011"	"2011"	"Wisconsin"	"55"	"White"	"2106-3"	"15-24 years"	"15-24"	"Male"	"M"	28	342480	8.2
+	"2011"	"2011"	"Wisconsin"	"55"	"White"	"2106-3"	"25-34 years"	"25-34"	"Female"	"F"	20	310614	6.4
+	"2011"	"2011"	"Wisconsin"	"55"	"White"	"2106-3"	"25-34 years"	"25-34"	"Male"	"M"	61	324715	18.8
+	"2011"	"2011"	"Wisconsin"	"55"	"White"	"2106-3"	"35-44 years"	"35-44"	"Female"	"F"	23	310634	7.4
+	"2011"	"2011"	"Wisconsin"	"55"	"White"	"2106-3"	"35-44 years"	"35-44"	"Male"	"M"	34	319821	10.6
+	"2011"	"2011"	"Wisconsin"	"55"	"White"	"2106-3"	"45-54 years"	"45-54"	"Female"	"F"	39	397174	9.8
+	"2011"	"2011"	"Wisconsin"	"55"	"White"	"2106-3"	"45-54 years"	"45-54"	"Male"	"M"	57	398987	14.3
+	"2011"	"2011"	"Wisconsin"	"55"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	26	343360	7.6
+	"2011"	"2011"	"Wisconsin"	"55"	"White"	"2106-3"	"55-64 years"	"55-64"	"Male"	"M"	43	343847	12.5
+	"2011"	"2011"	"Wyoming"	"56"	"White"	"2106-3"	"55-64 years"	"55-64"	"Female"	"F"	10	36286	Unreliable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2016"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Autopsy: All"
+"Gender: All"
+"Hispanic Origin: All"
+"MCD - ICD-10 Codes: F11.0 (Mental and behavioural disorders due to use of opioids, acute intoxication), F11.1 (Mental and"
+"behavioural disorders due to use of opioids, harmful use), F11.2 (Mental and behavioural disorders due to use of opioids,"
+"dependence syndrome), F11.3 (Mental and behavioural disorders due to use of opioids, withdrawal state), F11.4 (Mental and"
+"behavioural disorders due to use of opioids, withdrawal state with delirium), F11.5 (Mental and behavioural disorders due to use"
+"of opioids, psychotic disorder), F11.6 (Mental and behavioural disorders due to use of opioids, amnesic syndrome), F11.7 (Mental"
+"and behavioural disorders due to use of opioids, residual and late-onset psychotic disorder), F11.8 (Mental and behavioural"
+"disorders due to use of opioids, other mental and behavioural disorders), F11.9 (Mental and behavioural disorders due to use of"
+"opioids, unspecified mental and behavioural disorder), F19.0 (Mental and behavioural disorders due to multiple drug use and use"
+"of other psychoactive substances, acute intoxication), F19.1 (Mental and behavioural disorders due to multiple drug use and use"
+"of other psychoactive substances, harmful use), F19.2 (Mental and behavioural disorders due to multiple drug use and use of"
+"other psychoactive substances, dependence syndrome), F19.3 (Mental and behavioural disorders due to multiple drug use and use of"
+"other psychoactive substances, withdrawal state), F19.4 (Mental and behavioural disorders due to multiple drug use and use of"
+"other psychoactive substances, withdrawal state with delirium), F19.5 (Mental and behavioural disorders due to multiple drug use"
+"and use of other psychoactive substances, psychotic disorder), F19.6 (Mental and behavioural disorders due to multiple drug use"
+"and use of other psychoactive substances, amnesic syndrome), F19.7 (Mental and behavioural disorders due to multiple drug use"
+"and use of other psychoactive substances, residual and late-onset psychotic disorder), F19.8 (Mental and behavioural disorders"
+"due to multiple drug use and use of other psychoactive substances, other mental and behavioural disorders), F19.9 (Mental and"
+"behavioural disorders due to multiple drug use and use of other psychoactive substances, unspecified mental and behavioural"
+"disorder), T40.2 (Other opioids), Y45.0 (Opioids and related analgesics), Y50.1 (Opioid receptor antagonists)"
+"Place of Death: All"
+"Race: All"
+"States: All"
+"Ten-Year Age Groups: All"
+"UCD - ICD-10 Codes: All"
+"Weekday: All"
+"Year/Month: 2011"
+"Group By: Year, State, Race, Ten-Year Age Groups, Gender"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Mar 12, 2018 11:04:43 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Multiple Cause of Death"
+"1999-2016 on CDC WONDER Online Database, released December, 2017. Data are from the Multiple Cause of Death Files, 1999-2016, as"
+"compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed"
+"at http://wonder.cdc.gov/mcd-icd10.html on Mar 12, 2018 11:04:43 PM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Caveats:
+"1. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"3. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"4. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Racial Differences."
+"5. The population figures for year 2016 are bridged-race estimates of the July 1 resident population, from the Vintage 2016"
+"postcensal series released by NCHS on June 26, 2017. The population figures for year 2015 are bridged-race estimates of the July"
+"1 resident population, from the Vintage 2015 postcensal series released by NCHS on June 28, 2016. The population figures for"
+"year 2014 are bridged-race estimates of the July 1 resident population, from the Vintage 2014 postcensal series released by NCHS"
+"on June 30, 2015. The population figures for year 2013 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2013 postcensal series released by NCHS on June 26, 2014. The population figures for year 2012 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2012 postcensal series released by NCHS on June 13, 2013."
+"Population figures for 2011 are bridged-race estimates of the July 1 resident population, from the county-level postcensal"
+"Vintage 2011 series released by NCHS on July 18, 2012. Population figures for 2010 are April 1 Census counts. The population"
+"figures for years 2001 - 2009, are bridged-race estimates of the July 1 resident population, from the revised intercensal"
+"county-level 2000 - 2009 series released by NCHS on October 26, 2012. Population figures for 2000 are April 1 Census counts."
+"Population figures for 1999 are from the 1990-1999 intercensal series of July 1 estimates. Population figures for Infant Age"
+"Groups are the number of live births. <br/><b>Note:</b> Rates and population figures for years 2001 - 2009 differ slightly from"
+"previously published reports, due to use of the population estimates which were available at the time of release."
+"6. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"7. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
